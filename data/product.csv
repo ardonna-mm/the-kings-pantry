@@ -1,0 +1,541 @@
+product_id,product_name,item_taxonomy_1,item_taxonomy_2,brand_name,is_private_label,private_label_tier,vendor_id,purchase_cost,landed_cost,base_price,margin_percentage,is_active_flag,is_stock_item,is_discontinued_flag,unit_size,brand_id
+3001,Smallfolk Essentials Herbal The Reach Oats (16 oz),Pantry Essentials,Baking,Smallfolk Essentials,TRUE,Value,,1.04,1.08,1.52,28.72,TRUE,TRUE,FALSE,16 oz,20002
+3002,Crown Reserve Vintage Iron Islands Tomato Paste (1 kg),Pantry Essentials,Baking,Crown Reserve,TRUE,Luxury,,6.1,6.68,15.86,57.86,TRUE,TRUE,FALSE,1 kg,20003
+3003,Smallfolk Essentials Sea-Salted Oldtown Olive Oil (32 oz),Pantry Essentials,Spreads,Smallfolk Essentials,TRUE,Value,,4.34,4.64,6.64,30.19,FALSE,TRUE,FALSE,32 oz,20002
+3004,The King’s Pantry Select Roasted Dragonstone Broth (32 oz),Pantry Essentials,Grains,The King’s Pantry Select,TRUE,Premium,,5.05,5.34,10.96,51.29,FALSE,TRUE,FALSE,32 oz,20001
+3005,The King’s Pantry Select Roasted Stormlands Olive Oil (12 oz),Pantry Essentials,Spreads,The King’s Pantry Select,TRUE,Premium,,4.14,4.51,7.55,40.21,TRUE,TRUE,TRUE,12 oz,20001
+3006,Crown Reserve Golden Dorne Tomato Paste (32 oz),Pantry Essentials,Sauces,Crown Reserve,TRUE,Luxury,,3.02,3.26,6.94,52.98,TRUE,TRUE,FALSE,32 oz,20003
+3007,The King’s Pantry Select Oak-Aged Crownlands Olive Oil (2 lb),Pantry Essentials,Sauces,The King’s Pantry Select,TRUE,Premium,,2.36,2.59,4.71,45.1,TRUE,TRUE,FALSE,2 lb,20001
+3008,Smallfolk Essentials Spiced The Reach Broth (16 oz),Pantry Essentials,Canned,Smallfolk Essentials,TRUE,Value,,4.93,5.24,7.51,30.21,TRUE,TRUE,FALSE,16 oz,20002
+3009,Smallfolk Essentials Wild Dorne Olive Oil (2 lb),Pantry Essentials,Grains,Smallfolk Essentials,TRUE,Value,,2.75,2.94,4.44,33.78,TRUE,TRUE,FALSE,2 lb,20002
+3010,Smallfolk Essentials Spiced Highgarden Beans (16 oz),Pantry Essentials,Canned,Smallfolk Essentials,TRUE,Value,,2.03,2.16,3.3,34.51,TRUE,TRUE,TRUE,16 oz,20002
+3011,The King’s Pantry Select Sea-Salted The Vale Flour (1 kg),Pantry Essentials,Canned,The King’s Pantry Select,TRUE,Premium,,5.86,6.25,12.36,49.44,TRUE,TRUE,FALSE,1 kg,20001
+3012,The King’s Pantry Select Herbal Crownlands Pasta (16 oz),Pantry Essentials,Grains,The King’s Pantry Select,TRUE,Premium,,5.58,6.09,10.72,43.19,TRUE,TRUE,FALSE,16 oz,20001
+3013,The King’s Pantry Select Vintage Dorne Tomato Paste (1 kg),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,3.97,4.3,8.15,47.19,TRUE,TRUE,TRUE,1 kg,20001
+3014,Smallfolk Essentials Vintage Crownlands Broth (1 kg),Pantry Essentials,Baking,Smallfolk Essentials,TRUE,Value,,3.76,3.93,5.72,31.28,FALSE,TRUE,FALSE,1 kg,20002
+3015,Smallfolk Essentials Golden The North Tomato Paste (2 lb),Pantry Essentials,Spreads,Smallfolk Essentials,TRUE,Value,,4.57,4.85,7.2,32.64,TRUE,FALSE,FALSE,2 lb,20002
+3016,Smallfolk Essentials Oak-Aged Dragonstone Broth (1 kg),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,3.25,3.47,5.25,33.78,TRUE,TRUE,FALSE,1 kg,20002
+3017,Crown Reserve Golden Oldtown Pasta (16 oz),Pantry Essentials,Spreads,Crown Reserve,TRUE,Luxury,,2.49,2.67,5.37,50.3,TRUE,TRUE,TRUE,16 oz,20003
+3018,Smallfolk Essentials Spiced Dorne Oats (32 oz),Pantry Essentials,Canned,Smallfolk Essentials,TRUE,Value,,3.95,4.11,5.61,26.66,TRUE,TRUE,FALSE,32 oz,20002
+3019,Smallfolk Essentials Honeyed The Reach Rice (12 oz),Pantry Essentials,Sauces,Smallfolk Essentials,TRUE,Value,,4.55,4.82,6.93,30.38,TRUE,TRUE,FALSE,12 oz,20002
+3020,Crown Reserve Spiced The Vale Pasta (1 kg),Pantry Essentials,Canned,Crown Reserve,TRUE,Luxury,,6.93,7.7,15.59,50.6,TRUE,TRUE,FALSE,1 kg,20003
+3021,The King’s Pantry Select Golden Highgarden Rice (32 oz),Pantry Essentials,Grains,The King’s Pantry Select,TRUE,Premium,,1.56,1.69,3.06,44.77,TRUE,TRUE,TRUE,32 oz,20001
+3022,The King’s Pantry Select Honeyed The North Flour (1 kg),Pantry Essentials,Spreads,The King’s Pantry Select,TRUE,Premium,,1.65,1.79,3.73,51.96,TRUE,TRUE,FALSE,1 kg,20001
+3023,Smallfolk Essentials Stone-Ground The North Beans (16 oz),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,3.77,3.99,5.77,30.74,FALSE,TRUE,FALSE,16 oz,20002
+3024,The King’s Pantry Select Roasted Highgarden Tomato Paste (16 oz),Pantry Essentials,Canned,The King’s Pantry Select,TRUE,Premium,,5.02,5.35,11.23,52.36,TRUE,TRUE,FALSE,16 oz,20001
+3025,The King’s Pantry Select Herbal Highgarden Flour (12 oz),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,1.81,1.9,4.08,53.39,TRUE,TRUE,FALSE,12 oz,20001
+3026,Smallfolk Essentials Sea-Salted The Vale Pasta (16 oz),Pantry Essentials,Canned,Smallfolk Essentials,TRUE,Value,,2.61,2.73,4.17,34.45,TRUE,TRUE,TRUE,16 oz,20002
+3027,Smallfolk Essentials Roasted Stormlands Broth (1 kg),Pantry Essentials,Sauces,Smallfolk Essentials,TRUE,Value,,2.61,2.73,3.69,26.01,TRUE,TRUE,FALSE,1 kg,20002
+3028,Crown Reserve Sea-Salted The Vale Olive Oil (2 lb),Pantry Essentials,Baking,Crown Reserve,TRUE,Luxury,,4.02,4.32,9.72,55.58,TRUE,TRUE,FALSE,2 lb,20003
+3029,Smallfolk Essentials Honeyed Oldtown Olive Oil (2 lb),Pantry Essentials,Spreads,Smallfolk Essentials,TRUE,Value,,4.29,4.53,6.11,25.82,FALSE,TRUE,FALSE,2 lb,20002
+3030,Smallfolk Essentials Vintage Oldtown Oats (16 oz),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,1.5,1.57,2.12,26.31,TRUE,TRUE,FALSE,16 oz,20002
+3031,Smallfolk Essentials Golden The Vale Tomato Paste (12 oz),Pantry Essentials,Baking,Smallfolk Essentials,TRUE,Value,,2.28,2.43,3.36,27.69,TRUE,TRUE,FALSE,12 oz,20002
+3032,The King’s Pantry Select Stone-Ground The Vale Pasta (16 oz),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,2.88,3.12,6.68,53.26,FALSE,TRUE,FALSE,16 oz,20001
+3033,The King’s Pantry Select Golden The Reach Tomato Paste (1 kg),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,5.13,5.56,11.5,51.65,TRUE,TRUE,FALSE,1 kg,20001
+3034,The King’s Pantry Select Herbal Crownlands Oats (32 oz),Pantry Essentials,Canned,The King’s Pantry Select,TRUE,Premium,,1.95,2.08,4.27,51.36,TRUE,TRUE,FALSE,32 oz,20001
+3035,Smallfolk Essentials Wild The North Pasta (1 kg),Pantry Essentials,Grains,Smallfolk Essentials,TRUE,Value,,1.47,1.53,2.32,33.97,TRUE,FALSE,FALSE,1 kg,20002
+3036,The King’s Pantry Select Roasted The North Tomato Paste (16 oz),Pantry Essentials,Oils,The King’s Pantry Select,TRUE,Premium,,5.7,6.22,13.81,54.95,FALSE,TRUE,TRUE,16 oz,20001
+3037,The King’s Pantry Select Herbal Highgarden Rice (32 oz),Pantry Essentials,Canned,The King’s Pantry Select,TRUE,Premium,,1.92,2.09,4.15,49.62,TRUE,TRUE,FALSE,32 oz,20001
+3038,The King’s Pantry Select Honeyed The North Tomato Paste (32 oz),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,3.1,3.26,6,45.67,TRUE,TRUE,FALSE,32 oz,20001
+3039,Crown Reserve Stone-Ground Crownlands Beans (2 lb),Pantry Essentials,Grains,Crown Reserve,TRUE,Luxury,,4.82,5.22,11.81,55.81,TRUE,TRUE,FALSE,2 lb,20003
+3040,The King’s Pantry Select Spiced Stormlands Broth (32 oz),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,4.8,5.28,9.11,42.07,TRUE,TRUE,FALSE,32 oz,20001
+3041,The King’s Pantry Select Vintage Dragonstone Flour (1 kg),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,5.6,5.92,12.43,52.38,FALSE,TRUE,TRUE,1 kg,20001
+3042,Crown Reserve Sea-Salted Highgarden Broth (16 oz),Pantry Essentials,Grains,Crown Reserve,TRUE,Luxury,,4.57,5.05,10.66,52.65,TRUE,TRUE,FALSE,16 oz,20003
+3043,Smallfolk Essentials Vintage Stormlands Beans (12 oz),Pantry Essentials,Sauces,Smallfolk Essentials,TRUE,Value,,4.36,4.54,6.24,27.17,TRUE,TRUE,FALSE,12 oz,20002
+3044,Crown Reserve Vintage The Reach Oats (16 oz),Pantry Essentials,Sauces,Crown Reserve,TRUE,Luxury,,5.44,5.78,12.76,54.68,TRUE,TRUE,TRUE,16 oz,20003
+3045,Smallfolk Essentials Oak-Aged Iron Islands Flour (12 oz),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,2.01,2.11,3.21,34.16,TRUE,TRUE,FALSE,12 oz,20002
+3046,Smallfolk Essentials Wild Oldtown Oats (2 lb),Pantry Essentials,Grains,Smallfolk Essentials,TRUE,Value,,1.45,1.52,2.17,30.03,TRUE,FALSE,TRUE,2 lb,20002
+3047,The King’s Pantry Select Stone-Ground Dorne Rice (2 lb),Pantry Essentials,Sauces,The King’s Pantry Select,TRUE,Premium,,4.35,4.62,8.08,42.76,TRUE,FALSE,FALSE,2 lb,20001
+3048,Smallfolk Essentials Herbal Dorne Flour (12 oz),Pantry Essentials,Canned,Smallfolk Essentials,TRUE,Value,,3.31,3.48,5.07,31.29,TRUE,TRUE,FALSE,12 oz,20002
+3049,Smallfolk Essentials Herbal Iron Islands Pasta (12 oz),Pantry Essentials,Canned,Smallfolk Essentials,TRUE,Value,,1.51,1.58,2.16,26.79,TRUE,TRUE,FALSE,12 oz,20002
+3050,Crown Reserve Oak-Aged Iron Islands Broth (32 oz),Pantry Essentials,Sauces,Crown Reserve,TRUE,Luxury,,2.45,2.67,7.54,64.55,TRUE,TRUE,FALSE,32 oz,20003
+3051,The King’s Pantry Select Oak-Aged Dorne Olive Oil (16 oz),Pantry Essentials,Canned,The King’s Pantry Select,TRUE,Premium,,4,4.21,7.62,44.73,TRUE,TRUE,FALSE,16 oz,20001
+3052,Smallfolk Essentials Oak-Aged Oldtown Beans (12 oz),Pantry Essentials,Spreads,Smallfolk Essentials,TRUE,Value,,4.63,4.92,7.3,32.61,TRUE,TRUE,FALSE,12 oz,20002
+3053,The King’s Pantry Select Herbal Stormlands Flour (12 oz),Pantry Essentials,Sauces,The King’s Pantry Select,TRUE,Premium,,4.68,4.98,10.01,50.22,TRUE,TRUE,TRUE,12 oz,20001
+3054,The King’s Pantry Select Golden Dragonstone Olive Oil (1 kg),Pantry Essentials,Grains,The King’s Pantry Select,TRUE,Premium,,3.98,4.25,9.19,53.79,TRUE,TRUE,FALSE,1 kg,20001
+3055,The King’s Pantry Select Oak-Aged Stormlands Rice (16 oz),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,1.46,1.6,3.06,47.72,TRUE,TRUE,FALSE,16 oz,20001
+3056,The King’s Pantry Select Roasted Dorne Olive Oil (16 oz),Pantry Essentials,Sauces,The King’s Pantry Select,TRUE,Premium,,4.51,4.89,10.18,52.03,TRUE,TRUE,FALSE,16 oz,20001
+3057,Smallfolk Essentials Oak-Aged Stormlands Pasta (2 lb),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,4.01,4.28,6.03,29.15,TRUE,TRUE,FALSE,2 lb,20002
+3058,The King’s Pantry Select Roasted Crownlands Tomato Paste (2 lb),Pantry Essentials,Sauces,The King’s Pantry Select,TRUE,Premium,,4.85,5.1,9.87,48.28,TRUE,TRUE,TRUE,2 lb,20001
+3059,Crown Reserve Herbal The North Olive Oil (16 oz),Pantry Essentials,Canned,Crown Reserve,TRUE,Luxury,,3.89,4.29,12.05,64.38,FALSE,TRUE,FALSE,16 oz,20003
+3060,Smallfolk Essentials Oak-Aged Dorne Tomato Paste (12 oz),Pantry Essentials,Grains,Smallfolk Essentials,TRUE,Value,,3.41,3.64,5.25,30.63,TRUE,TRUE,FALSE,12 oz,20002
+3061,Smallfolk Essentials Golden The Vale Broth (2 lb),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,3.38,3.52,5.13,31.31,TRUE,TRUE,FALSE,2 lb,20002
+3062,Smallfolk Essentials Honeyed Dorne Pasta (16 oz),Pantry Essentials,Sauces,Smallfolk Essentials,TRUE,Value,,1.79,1.89,2.85,33.79,TRUE,TRUE,TRUE,16 oz,20002
+3063,Smallfolk Essentials Herbal Stormlands Broth (1 kg),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,4.53,4.78,6.88,30.53,TRUE,TRUE,FALSE,1 kg,20002
+3064,The King’s Pantry Select Golden The Vale Olive Oil (32 oz),Pantry Essentials,Oils,The King’s Pantry Select,TRUE,Premium,,3.03,3.27,6.49,49.63,TRUE,TRUE,FALSE,32 oz,20001
+3065,Smallfolk Essentials Honeyed Oldtown Pasta (1 kg),Pantry Essentials,Spreads,Smallfolk Essentials,TRUE,Value,,3,3.19,4.48,28.8,TRUE,TRUE,FALSE,1 kg,20002
+3066,The King’s Pantry Select Golden Dorne Flour (16 oz),Pantry Essentials,Oils,The King’s Pantry Select,TRUE,Premium,,5.22,5.69,10.48,45.71,TRUE,TRUE,FALSE,16 oz,20001
+3067,Smallfolk Essentials Roasted Iron Islands Olive Oil (1 kg),Pantry Essentials,Sauces,Smallfolk Essentials,TRUE,Value,,2.65,2.83,3.79,25.34,TRUE,FALSE,TRUE,1 kg,20002
+3068,The King’s Pantry Select Roasted Dorne Rice (12 oz),Pantry Essentials,Canned,The King’s Pantry Select,TRUE,Premium,,3.92,4.2,8.42,50.17,FALSE,TRUE,FALSE,12 oz,20001
+3069,Crown Reserve Vintage Dragonstone Flour (32 oz),Pantry Essentials,Sauces,Crown Reserve,TRUE,Luxury,,4.41,4.77,10.46,54.39,TRUE,TRUE,FALSE,32 oz,20003
+3070,The King’s Pantry Select Oak-Aged The Reach Flour (32 oz),Pantry Essentials,Canned,The King’s Pantry Select,TRUE,Premium,,5.45,5.82,12.71,54.22,TRUE,TRUE,FALSE,32 oz,20001
+3071,Smallfolk Essentials Spiced Crownlands Flour (12 oz),Pantry Essentials,Sauces,Smallfolk Essentials,TRUE,Value,,3.98,4.15,5.93,29.94,TRUE,TRUE,TRUE,12 oz,20002
+3072,The King’s Pantry Select Spiced Stormlands Flour (2 lb),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,3.1,3.38,5.93,42.97,FALSE,TRUE,FALSE,2 lb,20001
+3073,Crown Reserve Stone-Ground The Reach Pasta (2 lb),Pantry Essentials,Sauces,Crown Reserve,TRUE,Luxury,,3.78,4.13,10.74,61.52,TRUE,TRUE,FALSE,2 lb,20003
+3074,Smallfolk Essentials Wild Oldtown Flour (2 lb),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,1.16,1.23,1.82,32.71,FALSE,FALSE,FALSE,2 lb,20002
+3075,The King’s Pantry Select Stone-Ground Dorne Beans (2 lb),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,4.41,4.69,7.94,40.94,TRUE,TRUE,FALSE,2 lb,20001
+3076,Crown Reserve Honeyed The Vale Beans (32 oz),Pantry Essentials,Canned,Crown Reserve,TRUE,Luxury,,4.09,4.49,9.74,53.87,TRUE,TRUE,FALSE,32 oz,20003
+3077,Crown Reserve Spiced Dragonstone Oats (12 oz),Pantry Essentials,Canned,Crown Reserve,TRUE,Luxury,,2.79,2.97,6.5,54.34,TRUE,TRUE,FALSE,12 oz,20003
+3078,Crown Reserve Oak-Aged The Reach Olive Oil (32 oz),Pantry Essentials,Oils,Crown Reserve,TRUE,Luxury,,1.9,2.1,4.47,52.93,TRUE,TRUE,FALSE,32 oz,20003
+3079,Smallfolk Essentials Roasted Crownlands Olive Oil (12 oz),Pantry Essentials,Baking,Smallfolk Essentials,TRUE,Value,,3.69,3.93,5.74,31.56,TRUE,TRUE,FALSE,12 oz,20002
+3080,The King’s Pantry Select Golden The North Flour (32 oz),Pantry Essentials,Sauces,The King’s Pantry Select,TRUE,Premium,,3.45,3.64,6.82,46.56,TRUE,TRUE,FALSE,32 oz,20001
+3081,The King’s Pantry Select Roasted Crownlands Pasta (1 kg),Pantry Essentials,Spreads,The King’s Pantry Select,TRUE,Premium,,1.69,1.79,3.09,42.04,TRUE,TRUE,FALSE,1 kg,20001
+3082,Crown Reserve Stone-Ground Oldtown Broth (32 oz),Pantry Essentials,Grains,Crown Reserve,TRUE,Luxury,,2.17,2.3,4.88,52.76,TRUE,TRUE,FALSE,32 oz,20003
+3083,Smallfolk Essentials Roasted Dragonstone Pasta (16 oz),Pantry Essentials,Baking,Smallfolk Essentials,TRUE,Value,,4.47,4.67,6.46,27.7,TRUE,TRUE,FALSE,16 oz,20002
+3084,The King’s Pantry Select Vintage The Vale Beans (12 oz),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,1.8,1.98,4.14,52.25,TRUE,TRUE,FALSE,12 oz,20001
+3085,Crown Reserve Stone-Ground Oldtown Rice (1 kg),Pantry Essentials,Spreads,Crown Reserve,TRUE,Luxury,,5.35,5.92,12.02,50.74,TRUE,TRUE,FALSE,1 kg,20003
+3086,Smallfolk Essentials Vintage Oldtown Broth (16 oz),Pantry Essentials,Spreads,Smallfolk Essentials,TRUE,Value,,2.32,2.41,3.27,26.14,TRUE,TRUE,FALSE,16 oz,20002
+3087,Smallfolk Essentials Stone-Ground Stormlands Tomato Paste (12 oz),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,3.65,3.87,5.95,34.9,TRUE,TRUE,FALSE,12 oz,20002
+3088,The King’s Pantry Select Honeyed The Vale Rice (16 oz),Pantry Essentials,Spreads,The King’s Pantry Select,TRUE,Premium,,2.68,2.88,5.66,49.12,TRUE,TRUE,FALSE,16 oz,20001
+3089,Smallfolk Essentials Golden Oldtown Beans (1 kg),Pantry Essentials,Spreads,Smallfolk Essentials,TRUE,Value,,2.79,2.98,4.38,31.94,TRUE,FALSE,FALSE,1 kg,20002
+3090,The King’s Pantry Select Golden The North Flour (2 lb),Pantry Essentials,Grains,The King’s Pantry Select,TRUE,Premium,,1.92,2.05,3.53,41.98,FALSE,TRUE,FALSE,2 lb,20001
+3091,The King’s Pantry Select Roasted Iron Islands Rice (12 oz),Pantry Essentials,Baking,The King’s Pantry Select,TRUE,Premium,,5.49,5.95,10.67,44.18,TRUE,TRUE,FALSE,12 oz,20001
+3092,Crown Reserve Vintage Stormlands Beans (32 oz),Pantry Essentials,Grains,Crown Reserve,TRUE,Luxury,,2.35,2.61,6.83,61.8,TRUE,TRUE,TRUE,32 oz,20003
+3093,Smallfolk Essentials Sea-Salted Highgarden Olive Oil (32 oz),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,5.13,5.37,7.43,27.68,TRUE,TRUE,FALSE,32 oz,20002
+3094,Smallfolk Essentials Roasted The North Pasta (32 oz),Pantry Essentials,Oils,Smallfolk Essentials,TRUE,Value,,3.22,3.35,4.54,26.18,TRUE,TRUE,FALSE,32 oz,20002
+3095,The King’s Pantry Select Wild Dorne Pasta (12 oz),Pantry Essentials,Oils,The King’s Pantry Select,TRUE,Premium,,2.37,2.58,4.39,41.27,TRUE,FALSE,FALSE,12 oz,20001
+3096,Vale Harvest Co. Oak-Aged The Vale Flour (2 lb),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,5.31,5.69,6.65,14.55,TRUE,TRUE,FALSE,2 lb,10016
+3097,Vale Harvest Co. Herbal The North Broth (1 kg),Pantry Essentials,Sauces,Vale Harvest Co.,FALSE,,1006,2.89,3.18,3.85,17.4,TRUE,TRUE,FALSE,1 kg,10016
+3098,Vale Harvest Co. Vintage The Vale Beans (16 oz),Pantry Essentials,Grains,Vale Harvest Co.,FALSE,,1006,4.57,4.86,6.05,19.63,TRUE,TRUE,FALSE,16 oz,10016
+3099,Vale Harvest Co. Herbal Iron Islands Beans (32 oz),Pantry Essentials,Baking,Vale Harvest Co.,FALSE,,1006,5.3,5.73,6.72,14.69,TRUE,TRUE,FALSE,32 oz,10016
+3100,Vale Harvest Co. Sea-Salted Oldtown Flour (2 lb),Pantry Essentials,Grains,Vale Harvest Co.,FALSE,,1006,2.36,2.5,2.85,12.2,TRUE,TRUE,FALSE,2 lb,10016
+3101,Vale Harvest Co. Golden The North Olive Oil (2 lb),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,4.69,5.23,5.95,12.14,TRUE,TRUE,FALSE,2 lb,10016
+3102,Vale Harvest Co. Golden Oldtown Rice (2 lb),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,1.62,1.81,2.02,10.75,TRUE,TRUE,FALSE,2 lb,10016
+3103,Vale Harvest Co. Roasted Stormlands Olive Oil (12 oz),Pantry Essentials,Spreads,Vale Harvest Co.,FALSE,,1006,3.97,4.41,4.94,10.67,TRUE,TRUE,FALSE,12 oz,10016
+3104,Vale Harvest Co. Golden Stormlands Oats (2 lb),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,4.8,5.06,5.87,13.69,TRUE,TRUE,FALSE,2 lb,10016
+3105,Vale Harvest Co. Spiced Crownlands Flour (12 oz),Pantry Essentials,Spreads,Vale Harvest Co.,FALSE,,1006,3.27,3.65,4.28,14.7,TRUE,TRUE,FALSE,12 oz,10016
+3106,Vale Harvest Co. Roasted Crownlands Oats (1 kg),Pantry Essentials,Baking,Vale Harvest Co.,FALSE,,1006,1.41,1.54,1.74,11.53,TRUE,TRUE,FALSE,1 kg,10016
+3107,Vale Harvest Co. Oak-Aged Oldtown Rice (2 lb),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,2.62,2.85,3.42,16.47,TRUE,TRUE,FALSE,2 lb,10016
+3108,Vale Harvest Co. Herbal The North Rice (16 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,1.99,2.17,2.57,15.5,TRUE,TRUE,FALSE,16 oz,10016
+3109,Vale Harvest Co. Roasted The North Pasta (16 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,5.08,5.39,6.43,16.19,TRUE,FALSE,FALSE,16 oz,10016
+3110,Vale Harvest Co. Stone-Ground Dorne Tomato Paste (32 oz),Pantry Essentials,Baking,Vale Harvest Co.,FALSE,,1006,2.86,3.11,3.57,12.7,TRUE,TRUE,FALSE,32 oz,10016
+3111,Vale Harvest Co. Sea-Salted The Reach Pasta (2 lb),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,5.09,5.67,6.38,11.07,TRUE,TRUE,FALSE,2 lb,10016
+3112,Vale Harvest Co. Honeyed Dragonstone Pasta (1 kg),Pantry Essentials,Sauces,Vale Harvest Co.,FALSE,,1006,5.55,5.85,7.17,18.49,FALSE,TRUE,FALSE,1 kg,10016
+3113,Vale Harvest Co. Honeyed Dorne Tomato Paste (16 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,5.61,5.92,6.94,14.7,TRUE,TRUE,FALSE,16 oz,10016
+3114,Vale Harvest Co. Vintage Dragonstone Beans (12 oz),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,3.19,3.38,4.09,17.46,TRUE,TRUE,TRUE,12 oz,10016
+3115,Vale Harvest Co. Honeyed Stormlands Rice (12 oz),Pantry Essentials,Sauces,Vale Harvest Co.,FALSE,,1006,1.58,1.75,2.12,17.51,TRUE,TRUE,FALSE,12 oz,10016
+3116,Vale Harvest Co. Stone-Ground Crownlands Olive Oil (32 oz),Pantry Essentials,Grains,Vale Harvest Co.,FALSE,,1006,1.81,1.96,2.41,18.71,TRUE,TRUE,FALSE,32 oz,10016
+3117,Vale Harvest Co. Sea-Salted The Vale Pasta (2 lb),Pantry Essentials,Spreads,Vale Harvest Co.,FALSE,,1006,1.7,1.81,2.05,11.65,TRUE,TRUE,FALSE,2 lb,10016
+3118,Vale Harvest Co. Stone-Ground Highgarden Pasta (12 oz),Pantry Essentials,Grains,Vale Harvest Co.,FALSE,,1006,2.78,3.04,3.56,14.65,TRUE,FALSE,FALSE,12 oz,10016
+3119,Vale Harvest Co. Spiced The North Beans (16 oz),Pantry Essentials,Sauces,Vale Harvest Co.,FALSE,,1006,4.78,5.1,5.88,13.31,TRUE,TRUE,FALSE,16 oz,10016
+3120,Vale Harvest Co. Roasted The Reach Olive Oil (12 oz),Pantry Essentials,Baking,Vale Harvest Co.,FALSE,,1006,5.59,5.99,7.39,18.87,FALSE,TRUE,TRUE,12 oz,10016
+3121,Vale Harvest Co. Herbal Highgarden Beans (32 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,3.19,3.48,3.93,11.4,FALSE,TRUE,FALSE,32 oz,10016
+3122,Vale Harvest Co. Sea-Salted Iron Islands Pasta (2 lb),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,1.66,1.85,2.18,14.75,TRUE,TRUE,FALSE,2 lb,10016
+3123,Vale Harvest Co. Sea-Salted Dragonstone Pasta (16 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,1.52,1.6,1.98,19.06,FALSE,FALSE,FALSE,16 oz,10016
+3124,Vale Harvest Co. Golden Crownlands Broth (12 oz),Pantry Essentials,Grains,Vale Harvest Co.,FALSE,,1006,4.06,4.28,5.3,19.18,FALSE,FALSE,FALSE,12 oz,10016
+3125,Vale Harvest Co. Wild The Reach Broth (2 lb),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,4.69,5.14,6.1,15.64,TRUE,TRUE,FALSE,2 lb,10016
+3126,Vale Harvest Co. Sea-Salted Iron Islands Pasta (12 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,4.92,5.47,6.37,14.11,TRUE,TRUE,FALSE,12 oz,10016
+3127,Vale Harvest Co. Oak-Aged Highgarden Beans (32 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,5.71,6.38,7.46,14.53,TRUE,TRUE,FALSE,32 oz,10016
+3128,Vale Harvest Co. Roasted Crownlands Broth (1 kg),Pantry Essentials,Baking,Vale Harvest Co.,FALSE,,1006,4.78,5.18,6.01,13.75,FALSE,TRUE,TRUE,1 kg,10016
+3129,Vale Harvest Co. Roasted The Reach Pasta (32 oz),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,1.7,1.79,2.09,14.33,TRUE,TRUE,FALSE,32 oz,10016
+3130,Vale Harvest Co. Golden The North Rice (2 lb),Pantry Essentials,Oils,Vale Harvest Co.,FALSE,,1006,2.15,2.29,2.8,18.02,TRUE,TRUE,FALSE,2 lb,10016
+3131,Vale Harvest Co. Spiced Dorne Beans (32 oz),Pantry Essentials,Sauces,Vale Harvest Co.,FALSE,,1006,2.87,3.08,3.74,17.61,TRUE,TRUE,FALSE,32 oz,10016
+3132,Vale Harvest Co. Herbal The Vale Pasta (32 oz),Pantry Essentials,Grains,Vale Harvest Co.,FALSE,,1006,4.78,5.12,6.17,16.97,TRUE,TRUE,FALSE,32 oz,10016
+3133,Vale Harvest Co. Sea-Salted The Reach Tomato Paste (16 oz),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,3.89,4.15,4.83,14.04,TRUE,TRUE,FALSE,16 oz,10016
+3134,Vale Harvest Co. Stone-Ground Crownlands Rice (1 kg),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,4.53,4.78,5.41,11.54,TRUE,FALSE,FALSE,1 kg,10016
+3135,Vale Harvest Co. Oak-Aged Dorne Flour (32 oz),Pantry Essentials,Canned,Vale Harvest Co.,FALSE,,1006,2,2.24,2.56,12.54,TRUE,TRUE,TRUE,32 oz,10016
+3136,Vale Harvest Co. Roasted Oldtown Rice (16 oz),Pantry Essentials,Spreads,Vale Harvest Co.,FALSE,,1006,1.21,1.32,1.64,19.5,TRUE,TRUE,FALSE,16 oz,10016
+3137,Vale Harvest Co. Sea-Salted Stormlands Flour (1 kg),Pantry Essentials,Baking,Vale Harvest Co.,FALSE,,1006,2.64,2.77,3.2,13.36,TRUE,TRUE,TRUE,1 kg,10016
+3138,Smallfolk Essentials Spiced Highgarden Cider (1 L),Beverages,Ciders,Smallfolk Essentials,TRUE,Value,,6.69,7.02,10.59,33.69,TRUE,TRUE,FALSE,1 L,20002
+3139,The King’s Pantry Select Spiced The North Spring Water (12-Pack),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,3.03,3.19,6.08,47.56,TRUE,FALSE,FALSE,12-Pack,20001
+3140,The King’s Pantry Select Herbal Iron Islands Herbal Tea (1 L),Beverages,Ales,The King’s Pantry Select,TRUE,Premium,,5.27,5.65,10.8,47.67,TRUE,TRUE,FALSE,1 L,20001
+3141,The King’s Pantry Select Oak-Aged Iron Islands Red Wine (12-Pack),Beverages,Waters,The King’s Pantry Select,TRUE,Premium,,3.33,3.57,6.14,41.87,FALSE,FALSE,FALSE,12-Pack,20001
+3142,The King’s Pantry Select Stone-Ground Stormlands Herbal Tea (12-Pack),Beverages,Waters,The King’s Pantry Select,TRUE,Premium,,3.66,3.99,7.76,48.64,TRUE,TRUE,TRUE,12-Pack,20001
+3143,The King’s Pantry Select Golden The Reach White Wine (1 L),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,5.09,5.59,9.8,42.92,TRUE,TRUE,FALSE,1 L,20001
+3144,Crown Reserve Spiced Dorne Ale (500 ml),Beverages,Teas,Crown Reserve,TRUE,Luxury,,3.1,3.29,8.19,59.9,TRUE,TRUE,FALSE,500 ml,20003
+3145,Smallfolk Essentials Wild The North Cider (500 ml),Beverages,Juices,Smallfolk Essentials,TRUE,Value,,3.71,3.94,5.63,30.04,TRUE,TRUE,FALSE,500 ml,20002
+3146,The King’s Pantry Select Wild Dragonstone Cold Brew (500 ml),Beverages,Juices,The King’s Pantry Select,TRUE,Premium,,5.06,5.53,10.51,47.39,TRUE,TRUE,FALSE,500 ml,20001
+3147,Smallfolk Essentials Spiced The North Herbal Tea (12-Pack),Beverages,Ciders,Smallfolk Essentials,TRUE,Value,,5.81,6.1,8.46,27.87,TRUE,TRUE,FALSE,12-Pack,20002
+3148,The King’s Pantry Select Spiced The Vale Cold Brew (750 ml),Beverages,Ales,The King’s Pantry Select,TRUE,Premium,,5.48,5.86,12.23,52.11,TRUE,TRUE,FALSE,750 ml,20001
+3149,The King’s Pantry Select Honeyed Iron Islands Spring Water (330 ml),Beverages,Ciders,The King’s Pantry Select,TRUE,Premium,,5.93,6.25,11.14,43.88,TRUE,FALSE,FALSE,330 ml,20001
+3150,Crown Reserve Golden The Vale Cold Brew (750 ml),Beverages,Juices,Crown Reserve,TRUE,Luxury,,7.43,8.31,22.66,63.34,TRUE,TRUE,TRUE,750 ml,20003
+3151,Crown Reserve Spiced The Reach Cider (12-Pack),Beverages,Ales,Crown Reserve,TRUE,Luxury,,7.16,7.67,20.83,63.17,TRUE,TRUE,FALSE,12-Pack,20003
+3152,Smallfolk Essentials Oak-Aged Dorne Red Wine (750 ml),Beverages,Ales,Smallfolk Essentials,TRUE,Value,,6.22,6.64,9,26.28,TRUE,FALSE,FALSE,750 ml,20002
+3153,The King’s Pantry Select Vintage The North Cold Brew (330 ml),Beverages,Juices,The King’s Pantry Select,TRUE,Premium,,3.24,3.43,6.12,43.95,FALSE,TRUE,FALSE,330 ml,20001
+3154,The King’s Pantry Select Spiced Dorne White Wine (330 ml),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,6.16,6.55,11.51,43.08,TRUE,TRUE,FALSE,330 ml,20001
+3155,The King’s Pantry Select Honeyed The North Cold Brew (750 ml),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,3.85,4.19,9.02,53.57,TRUE,TRUE,FALSE,750 ml,20001
+3156,The King’s Pantry Select Sea-Salted Crownlands Cold Brew (750 ml),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,7.32,7.94,15.14,47.58,TRUE,TRUE,FALSE,750 ml,20001
+3157,The King’s Pantry Select Golden Stormlands Spring Water (330 ml),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,2.66,2.83,6.28,54.86,TRUE,TRUE,FALSE,330 ml,20001
+3158,The King’s Pantry Select Wild Iron Islands Ale (1 L),Beverages,Ales,The King’s Pantry Select,TRUE,Premium,,2.98,3.19,5.62,43.2,FALSE,TRUE,TRUE,1 L,20001
+3159,Smallfolk Essentials Wild Dorne Ale (500 ml),Beverages,Teas,Smallfolk Essentials,TRUE,Value,,6.26,6.67,9.02,26.09,TRUE,TRUE,FALSE,500 ml,20002
+3160,The King’s Pantry Select Roasted Dorne Stout (330 ml),Beverages,Ciders,The King’s Pantry Select,TRUE,Premium,,4.86,5.31,10.5,49.44,TRUE,TRUE,FALSE,330 ml,20001
+3161,The King’s Pantry Select Honeyed The Reach Spring Water (750 ml),Beverages,Ciders,The King’s Pantry Select,TRUE,Premium,,5.6,6.09,10.46,41.71,TRUE,TRUE,FALSE,750 ml,20001
+3162,Crown Reserve Stone-Ground The North Red Wine (12-Pack),Beverages,Juices,Crown Reserve,TRUE,Luxury,,5.63,6.23,15.9,60.8,TRUE,TRUE,FALSE,12-Pack,20003
+3163,The King’s Pantry Select Vintage Dorne Spring Water (1 L),Beverages,Ciders,The King’s Pantry Select,TRUE,Premium,,5.34,5.84,11.87,50.78,TRUE,TRUE,FALSE,1 L,20001
+3164,The King’s Pantry Select Vintage The Reach White Wine (12-Pack),Beverages,Wines,The King’s Pantry Select,TRUE,Premium,,4.24,4.6,9.95,53.79,TRUE,TRUE,FALSE,12-Pack,20001
+3165,The King’s Pantry Select Roasted Stormlands Herbal Tea (12-Pack),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,2.67,2.93,6.4,54.22,TRUE,TRUE,FALSE,12-Pack,20001
+3166,Smallfolk Essentials Roasted The Vale Ale (12-Pack),Beverages,Teas,Smallfolk Essentials,TRUE,Value,,4.97,5.19,6.97,25.49,TRUE,FALSE,FALSE,12-Pack,20002
+3167,Smallfolk Essentials Honeyed Dorne Cider (500 ml),Beverages,Juices,Smallfolk Essentials,TRUE,Value,,6.32,6.75,9.79,31.02,TRUE,TRUE,FALSE,500 ml,20002
+3168,Smallfolk Essentials Sea-Salted Crownlands Herbal Tea (750 ml),Beverages,Ales,Smallfolk Essentials,TRUE,Value,,7.01,7.31,10.26,28.72,TRUE,TRUE,FALSE,750 ml,20002
+3169,Smallfolk Essentials Stone-Ground The Reach Cider (1 L),Beverages,Wines,Smallfolk Essentials,TRUE,Value,,6.1,6.4,8.88,27.94,TRUE,TRUE,FALSE,1 L,20002
+3170,The King’s Pantry Select Oak-Aged Stormlands Ale (500 ml),Beverages,Ales,The King’s Pantry Select,TRUE,Premium,,4.97,5.26,10.78,51.25,TRUE,TRUE,FALSE,500 ml,20001
+3171,The King’s Pantry Select Wild The North Ale (500 ml),Beverages,Ciders,The King’s Pantry Select,TRUE,Premium,,6.59,7.2,13.91,48.24,TRUE,TRUE,FALSE,500 ml,20001
+3172,Smallfolk Essentials Oak-Aged Highgarden Herbal Tea (500 ml),Beverages,Juices,Smallfolk Essentials,TRUE,Value,,6.06,6.32,8.98,29.6,TRUE,TRUE,FALSE,500 ml,20002
+3173,Crown Reserve Stone-Ground Oldtown Red Wine (750 ml),Beverages,Ales,Crown Reserve,TRUE,Luxury,,9.2,9.79,26.69,63.32,TRUE,TRUE,FALSE,750 ml,20003
+3174,Smallfolk Essentials Stone-Ground The North Stout (500 ml),Beverages,Wines,Smallfolk Essentials,TRUE,Value,,5.18,5.48,7.64,28.25,FALSE,TRUE,FALSE,500 ml,20002
+3175,Smallfolk Essentials Oak-Aged Oldtown Cold Brew (330 ml),Beverages,Wines,Smallfolk Essentials,TRUE,Value,,4.04,4.3,5.89,26.93,TRUE,TRUE,FALSE,330 ml,20002
+3176,Smallfolk Essentials Honeyed Dorne Herbal Tea (12-Pack),Beverages,Waters,Smallfolk Essentials,TRUE,Value,,3.68,3.84,5.61,31.55,TRUE,TRUE,FALSE,12-Pack,20002
+3177,The King’s Pantry Select Roasted Highgarden White Wine (12-Pack),Beverages,Teas,The King’s Pantry Select,TRUE,Premium,,2.79,2.99,5.87,48.97,TRUE,TRUE,FALSE,12-Pack,20001
+3178,Crown Reserve Wild Crownlands Herbal Tea (500 ml),Beverages,Ciders,Crown Reserve,TRUE,Luxury,,5.07,5.56,15.57,64.27,TRUE,TRUE,FALSE,500 ml,20003
+3179,The King’s Pantry Select Stone-Ground Stormlands Stout (1 L),Beverages,Ales,The King’s Pantry Select,TRUE,Premium,,6.98,7.5,14.17,47.06,TRUE,FALSE,FALSE,1 L,20001
+3180,The King’s Pantry Select Wild Iron Islands Red Wine (330 ml),Beverages,Ales,The King’s Pantry Select,TRUE,Premium,,4.14,4.52,9.5,52.46,TRUE,FALSE,FALSE,330 ml,20001
+3181,Smallfolk Essentials Sea-Salted Dragonstone Herbal Tea (750 ml),Beverages,Teas,Smallfolk Essentials,TRUE,Value,,6.14,6.4,8.63,25.87,TRUE,TRUE,FALSE,750 ml,20002
+3182,Smallfolk Essentials Herbal Iron Islands Cold Brew (500 ml),Beverages,Wines,Smallfolk Essentials,TRUE,Value,,6.63,6.99,9.49,26.28,TRUE,TRUE,FALSE,500 ml,20002
+3183,Smallfolk Essentials Vintage The Reach White Wine (750 ml),Beverages,Ciders,Smallfolk Essentials,TRUE,Value,,4.27,4.52,6.23,27.47,TRUE,TRUE,FALSE,750 ml,20002
+3184,Smallfolk Essentials Wild Iron Islands Spring Water (500 ml),Beverages,Ales,Smallfolk Essentials,TRUE,Value,,4.69,5.01,7.14,29.77,TRUE,TRUE,FALSE,500 ml,20002
+3185,The King’s Pantry Select Golden Iron Islands Cold Brew (750 ml),Beverages,Juices,The King’s Pantry Select,TRUE,Premium,,4.69,4.99,10.78,53.72,TRUE,FALSE,FALSE,750 ml,20001
+3186,The King’s Pantry Select Wild Dorne Red Wine (330 ml),Beverages,Juices,The King’s Pantry Select,TRUE,Premium,,3.64,3.83,6.53,41.27,TRUE,FALSE,FALSE,330 ml,20001
+3187,Crown Reserve Herbal Dragonstone Ale (500 ml),Beverages,Ciders,Crown Reserve,TRUE,Luxury,,10.19,10.96,30.03,63.5,TRUE,TRUE,FALSE,500 ml,20003
+3188,Crown Reserve Spiced Highgarden White Wine (12-Pack),Beverages,Juices,Crown Reserve,TRUE,Luxury,,3.62,4.04,10.48,61.46,TRUE,TRUE,FALSE,12-Pack,20003
+3189,The King’s Pantry Select Oak-Aged The Vale White Wine (1 L),Beverages,Juices,The King’s Pantry Select,TRUE,Premium,,7.13,7.61,16.18,52.94,TRUE,TRUE,FALSE,1 L,20001
+3190,Crown Reserve Honeyed Highgarden Cider (1 L),Beverages,Ales,Crown Reserve,TRUE,Luxury,,9.76,10.65,24.08,55.76,TRUE,TRUE,FALSE,1 L,20003
+3191,Smallfolk Essentials Oak-Aged Stormlands Spring Water (500 ml),Beverages,Waters,Smallfolk Essentials,TRUE,Value,,6.76,7.11,10.94,34.99,TRUE,TRUE,TRUE,500 ml,20002
+3192,The King’s Pantry Select Herbal Crownlands Stout (330 ml),Beverages,Juices,The King’s Pantry Select,TRUE,Premium,,2.55,2.79,4.88,42.79,TRUE,TRUE,FALSE,330 ml,20001
+3193,Smallfolk Essentials Wild Highgarden Red Wine (1 L),Beverages,Ciders,Smallfolk Essentials,TRUE,Value,,2.46,2.57,3.79,32.33,TRUE,TRUE,FALSE,1 L,20002
+3194,The King’s Pantry Select Honeyed The Reach Ale (330 ml),Beverages,Ciders,The King’s Pantry Select,TRUE,Premium,,6.12,6.61,13.5,51.05,FALSE,TRUE,FALSE,330 ml,20001
+3195,Smallfolk Essentials Golden The Vale Herbal Tea (500 ml),Beverages,Ciders,Smallfolk Essentials,TRUE,Value,,2.86,3.02,4.57,33.97,TRUE,TRUE,FALSE,500 ml,20002
+3196,The King’s Pantry Select Stone-Ground Highgarden Cold Brew (1 L),Beverages,Wines,The King’s Pantry Select,TRUE,Premium,,5.51,5.98,11.11,46.15,TRUE,TRUE,TRUE,1 L,20001
+3197,Dragonstone Brewing Co. Oak-Aged Oldtown White Wine (1 L),Beverages,Waters,Dragonstone Brewing Co.,FALSE,,1010,2.91,3.2,4.82,33.47,TRUE,TRUE,TRUE,1 L,10020
+3198,Dragonstone Brewing Co. Roasted Iron Islands Ale (750 ml),Beverages,Waters,Dragonstone Brewing Co.,FALSE,,1010,5.03,5.47,8.01,31.76,TRUE,TRUE,FALSE,750 ml,10020
+3199,Dragonstone Brewing Co. Sea-Salted The Vale White Wine (12-Pack),Beverages,Teas,Dragonstone Brewing Co.,FALSE,,1010,4.66,5.12,8.12,36.87,TRUE,TRUE,FALSE,12-Pack,10020
+3200,Dragonstone Brewing Co. Wild The Reach White Wine (1 L),Beverages,Teas,Dragonstone Brewing Co.,FALSE,,1010,4.05,4.32,6.64,34.93,TRUE,TRUE,FALSE,1 L,10020
+3201,Dragonstone Brewing Co. Vintage Iron Islands White Wine (750 ml),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,7.1,7.88,11.75,32.93,TRUE,TRUE,FALSE,750 ml,10020
+3202,Dragonstone Brewing Co. Stone-Ground Crownlands Herbal Tea (330 ml),Beverages,Juices,Dragonstone Brewing Co.,FALSE,,1010,5.55,6,9.04,33.59,TRUE,TRUE,FALSE,330 ml,10020
+3203,Dragonstone Brewing Co. Sea-Salted The North Spring Water (12-Pack),Beverages,Wines,Dragonstone Brewing Co.,FALSE,,1010,7.81,8.56,12.48,31.39,TRUE,TRUE,FALSE,12-Pack,10020
+3204,Dragonstone Brewing Co. Vintage The North Cider (500 ml),Beverages,Juices,Dragonstone Brewing Co.,FALSE,,1010,6.39,6.83,10.24,33.26,FALSE,TRUE,FALSE,500 ml,10020
+3205,Dragonstone Brewing Co. Wild Crownlands Red Wine (1 L),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,2.84,3.14,4.61,32.01,TRUE,TRUE,FALSE,1 L,10020
+3206,Dragonstone Brewing Co. Honeyed Stormlands Cider (500 ml),Beverages,Wines,Dragonstone Brewing Co.,FALSE,,1010,2.96,3.25,5.12,36.58,TRUE,TRUE,FALSE,500 ml,10020
+3207,Dragonstone Brewing Co. Wild The North Stout (1 L),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,3.74,4.12,6.28,34.47,TRUE,TRUE,FALSE,1 L,10020
+3208,Dragonstone Brewing Co. Vintage The Reach Cider (500 ml),Beverages,Teas,Dragonstone Brewing Co.,FALSE,,1010,5.48,6,8.68,30.88,TRUE,TRUE,FALSE,500 ml,10020
+3209,Dragonstone Brewing Co. Oak-Aged Oldtown Cider (12-Pack),Beverages,Ciders,Dragonstone Brewing Co.,FALSE,,1010,6.75,7.21,10.38,30.57,TRUE,TRUE,FALSE,12-Pack,10020
+3210,Dragonstone Brewing Co. Roasted The Vale White Wine (500 ml),Beverages,Wines,Dragonstone Brewing Co.,FALSE,,1010,5.42,5.95,9.14,34.88,TRUE,TRUE,FALSE,500 ml,10020
+3211,Dragonstone Brewing Co. Sea-Salted Highgarden Red Wine (1 L),Beverages,Ciders,Dragonstone Brewing Co.,FALSE,,1010,6.23,6.69,10.11,33.84,TRUE,TRUE,FALSE,1 L,10020
+3212,Dragonstone Brewing Co. Golden The Vale White Wine (500 ml),Beverages,Ciders,Dragonstone Brewing Co.,FALSE,,1010,5.24,5.59,8,30.18,TRUE,TRUE,FALSE,500 ml,10020
+3213,Dragonstone Brewing Co. Honeyed Dragonstone Red Wine (330 ml),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,7.41,7.97,12.56,36.57,TRUE,TRUE,FALSE,330 ml,10020
+3214,Dragonstone Brewing Co. Honeyed Dragonstone Herbal Tea (1 L),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,3.17,3.41,5.59,38.92,TRUE,TRUE,TRUE,1 L,10020
+3215,Dragonstone Brewing Co. Roasted The Reach Ale (330 ml),Beverages,Teas,Dragonstone Brewing Co.,FALSE,,1010,4.01,4.42,6.61,33.19,TRUE,TRUE,FALSE,330 ml,10020
+3216,Dragonstone Brewing Co. Roasted Iron Islands Red Wine (1 L),Beverages,Waters,Dragonstone Brewing Co.,FALSE,,1010,5.69,6.15,8.96,31.4,TRUE,TRUE,FALSE,1 L,10020
+3217,Dragonstone Brewing Co. Spiced Oldtown White Wine (12-Pack),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,3.24,3.47,5.54,37.46,FALSE,TRUE,FALSE,12-Pack,10020
+3218,Dragonstone Brewing Co. Golden Stormlands Cold Brew (500 ml),Beverages,Ciders,Dragonstone Brewing Co.,FALSE,,1010,7.91,8.72,14.23,38.72,TRUE,FALSE,FALSE,500 ml,10020
+3219,Dragonstone Brewing Co. Sea-Salted Iron Islands Stout (500 ml),Beverages,Juices,Dragonstone Brewing Co.,FALSE,,1010,5.93,6.61,9.97,33.7,TRUE,TRUE,FALSE,500 ml,10020
+3220,Dragonstone Brewing Co. Spiced Crownlands White Wine (12-Pack),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,4.94,5.46,8.67,36.97,TRUE,TRUE,TRUE,12-Pack,10020
+3221,Dragonstone Brewing Co. Spiced Dragonstone Red Wine (1 L),Beverages,Wines,Dragonstone Brewing Co.,FALSE,,1010,5.05,5.37,8.49,36.73,TRUE,TRUE,FALSE,1 L,10020
+3222,Dragonstone Brewing Co. Sea-Salted The Reach Cider (1 L),Beverages,Wines,Dragonstone Brewing Co.,FALSE,,1010,5.05,5.38,7.79,30.9,TRUE,TRUE,FALSE,1 L,10020
+3223,Dragonstone Brewing Co. Stone-Ground Dragonstone Herbal Tea (12-Pack),Beverages,Ciders,Dragonstone Brewing Co.,FALSE,,1010,7.12,7.8,12.88,39.45,TRUE,TRUE,TRUE,12-Pack,10020
+3224,Dragonstone Brewing Co. Oak-Aged Dragonstone Spring Water (12-Pack),Beverages,Waters,Dragonstone Brewing Co.,FALSE,,1010,6.34,7.02,11.23,37.47,TRUE,TRUE,FALSE,12-Pack,10020
+3225,Dragonstone Brewing Co. Spiced Dorne Cider (1 L),Beverages,Juices,Dragonstone Brewing Co.,FALSE,,1010,4.36,4.68,7.21,35.17,TRUE,TRUE,FALSE,1 L,10020
+3226,Dragonstone Brewing Co. Honeyed Dragonstone White Wine (1 L),Beverages,Teas,Dragonstone Brewing Co.,FALSE,,1010,7.18,7.89,11.99,34.22,TRUE,TRUE,FALSE,1 L,10020
+3227,Dragonstone Brewing Co. Sea-Salted Crownlands Herbal Tea (12-Pack),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,5.29,5.59,8.25,32.18,TRUE,TRUE,FALSE,12-Pack,10020
+3228,Dragonstone Brewing Co. Golden Crownlands Cold Brew (1 L),Beverages,Ales,Dragonstone Brewing Co.,FALSE,,1010,7.26,7.88,12.63,37.58,TRUE,TRUE,FALSE,1 L,10020
+3229,Dragonstone Brewing Co. Herbal The North Herbal Tea (750 ml),Beverages,Teas,Dragonstone Brewing Co.,FALSE,,1010,5.28,5.62,8.45,33.53,TRUE,TRUE,TRUE,750 ml,10020
+3230,The King’s Pantry Select Golden Crownlands Strawberries (Bunch),Produce,Greens,The King’s Pantry Select,TRUE,Premium,,2.95,3.18,6.59,51.71,TRUE,TRUE,FALSE,Bunch,20001
+3231,Crown Reserve Roasted Highgarden Carrots (Bunch),Produce,Roots,Crown Reserve,TRUE,Luxury,,4.31,4.69,13.35,64.85,TRUE,TRUE,FALSE,Bunch,20003
+3232,The King’s Pantry Select Spiced Oldtown Apples (500 g),Produce,Fruits,The King’s Pantry Select,TRUE,Premium,,4.84,5.26,9.35,43.72,TRUE,TRUE,FALSE,500 g,20001
+3233,The King’s Pantry Select Stone-Ground The Vale Apples (Bunch),Produce,Fruits,The King’s Pantry Select,TRUE,Premium,,2.56,2.75,4.97,44.73,TRUE,TRUE,TRUE,Bunch,20001
+3234,Crown Reserve Vintage Oldtown Potatoes (1 lb),Produce,Herbs,Crown Reserve,TRUE,Luxury,,2.51,2.76,5.65,51.14,TRUE,TRUE,FALSE,1 lb,20003
+3235,The King’s Pantry Select Sea-Salted Dorne Potatoes (Bunch),Produce,Herbs,The King’s Pantry Select,TRUE,Premium,,1.72,1.84,3.14,41.58,TRUE,TRUE,FALSE,Bunch,20001
+3236,Crown Reserve Stone-Ground Oldtown Strawberries (Each),Produce,Mushrooms,Crown Reserve,TRUE,Luxury,,1.27,1.4,3.53,60.25,TRUE,TRUE,FALSE,Each,20003
+3237,Crown Reserve Oak-Aged Dragonstone Potatoes (500 g),Produce,Greens,Crown Reserve,TRUE,Luxury,,3.03,3.37,7.53,55.23,TRUE,TRUE,FALSE,500 g,20003
+3238,Smallfolk Essentials Stone-Ground Crownlands Carrots (Each),Produce,Fruits,Smallfolk Essentials,TRUE,Value,,3.96,4.2,5.7,26.37,FALSE,TRUE,FALSE,Each,20002
+3239,Smallfolk Essentials Oak-Aged The Vale Herb Bundle (1 lb),Produce,Roots,Smallfolk Essentials,TRUE,Value,,3.76,3.99,5.59,28.66,TRUE,TRUE,FALSE,1 lb,20002
+3240,The King’s Pantry Select Stone-Ground Highgarden Potatoes (2 lb),Produce,Herbs,The King’s Pantry Select,TRUE,Premium,,2.81,2.97,5.98,50.32,TRUE,TRUE,TRUE,2 lb,20001
+3241,The King’s Pantry Select Oak-Aged Stormlands Lettuces (500 g),Produce,Mushrooms,The King’s Pantry Select,TRUE,Premium,,3.14,3.31,6.72,50.76,TRUE,TRUE,FALSE,500 g,20001
+3242,The King’s Pantry Select Sea-Salted Oldtown Apples (Bunch),Produce,Fruits,The King’s Pantry Select,TRUE,Premium,,2.66,2.84,4.97,43,TRUE,TRUE,FALSE,Bunch,20001
+3243,The King’s Pantry Select Honeyed Crownlands Mushrooms (Each),Produce,Greens,The King’s Pantry Select,TRUE,Premium,,1.41,1.54,2.58,40.32,TRUE,TRUE,FALSE,Each,20001
+3244,Smallfolk Essentials Roasted Dorne Lettuces (Each),Produce,Greens,Smallfolk Essentials,TRUE,Value,,1.7,1.81,2.6,30.42,TRUE,TRUE,FALSE,Each,20002
+3245,Crown Reserve Stone-Ground The Reach Mushrooms (2 lb),Produce,Greens,Crown Reserve,TRUE,Luxury,,5.09,5.6,11.28,50.37,TRUE,TRUE,TRUE,2 lb,20003
+3246,Smallfolk Essentials Oak-Aged Stormlands Strawberries (Bunch),Produce,Mushrooms,Smallfolk Essentials,TRUE,Value,,3.93,4.14,5.91,29.89,TRUE,TRUE,FALSE,Bunch,20002
+3247,Crown Reserve Spiced Iron Islands Mushrooms (500 g),Produce,Roots,Crown Reserve,TRUE,Luxury,,5.42,5.79,12.88,55.03,TRUE,TRUE,FALSE,500 g,20003
+3248,Smallfolk Essentials Sea-Salted Dragonstone Potatoes (Bunch),Produce,Roots,Smallfolk Essentials,TRUE,Value,,4.29,4.59,7.01,34.56,TRUE,TRUE,TRUE,Bunch,20002
+3249,The King’s Pantry Select Herbal Oldtown Apples (Bunch),Produce,Roots,The King’s Pantry Select,TRUE,Premium,,2.49,2.62,4.68,44.06,TRUE,TRUE,FALSE,Bunch,20001
+3250,Smallfolk Essentials Roasted Stormlands Carrots (2 lb),Produce,Fruits,Smallfolk Essentials,TRUE,Value,,2.06,2.19,3.05,28.16,TRUE,TRUE,TRUE,2 lb,20002
+3251,The King’s Pantry Select Golden Highgarden Carrots (2 lb),Produce,Greens,The King’s Pantry Select,TRUE,Premium,,4.42,4.78,10.27,53.45,FALSE,TRUE,FALSE,2 lb,20001
+3252,The King’s Pantry Select Wild Dorne Carrots (1 lb),Produce,Mushrooms,The King’s Pantry Select,TRUE,Premium,,3.05,3.23,6.65,51.41,TRUE,TRUE,FALSE,1 lb,20001
+3253,Crown Reserve Spiced The Vale Mushrooms (2 lb),Produce,Fruits,Crown Reserve,TRUE,Luxury,,1.45,1.57,3.49,54.97,TRUE,TRUE,FALSE,2 lb,20003
+3254,The King’s Pantry Select Roasted Oldtown Potatoes (2 lb),Produce,Greens,The King’s Pantry Select,TRUE,Premium,,3.48,3.74,6.87,45.65,TRUE,TRUE,FALSE,2 lb,20001
+3255,The King’s Pantry Select Vintage The North Carrots (Bunch),Produce,Greens,The King’s Pantry Select,TRUE,Premium,,2.83,3.08,5.88,47.7,TRUE,TRUE,FALSE,Bunch,20001
+3256,The King’s Pantry Select Roasted The North Strawberries (Each),Produce,Mushrooms,The King’s Pantry Select,TRUE,Premium,,3.88,4.11,8.22,50.04,TRUE,TRUE,FALSE,Each,20001
+3257,Smallfolk Essentials Sea-Salted The Vale Potatoes (2 lb),Produce,Herbs,Smallfolk Essentials,TRUE,Value,,1.33,1.4,1.94,27.58,TRUE,TRUE,FALSE,2 lb,20002
+3258,Smallfolk Essentials Honeyed Highgarden Mushrooms (500 g),Produce,Herbs,Smallfolk Essentials,TRUE,Value,,1.36,1.44,2.15,32.76,TRUE,FALSE,FALSE,500 g,20002
+3259,The King’s Pantry Select Stone-Ground Dragonstone Mushrooms (1 lb),Produce,Greens,The King’s Pantry Select,TRUE,Premium,,2.07,2.22,3.89,42.9,TRUE,TRUE,FALSE,1 lb,20001
+3260,House Tyrell Provisions Golden Dragonstone Lettuces (Each),Produce,Greens,House Tyrell Provisions,FALSE,,1001,3.13,3.43,5.01,31.55,TRUE,TRUE,FALSE,Each,10011
+3261,House Tyrell Provisions Spiced The North Lettuces (Bunch),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,3.89,4.1,6.06,32.35,TRUE,TRUE,FALSE,Bunch,10011
+3262,House Tyrell Provisions Sea-Salted Iron Islands Mushrooms (Bunch),Produce,Greens,House Tyrell Provisions,FALSE,,1001,3.07,3.34,4.72,29.34,FALSE,TRUE,FALSE,Bunch,10011
+3263,House Tyrell Provisions Spiced Crownlands Carrots (2 lb),Produce,Roots,House Tyrell Provisions,FALSE,,1001,4.12,4.46,6.24,28.64,FALSE,TRUE,FALSE,2 lb,10011
+3264,House Tyrell Provisions Roasted Highgarden Lettuces (2 lb),Produce,Greens,House Tyrell Provisions,FALSE,,1001,4.91,5.25,7.02,25.12,FALSE,FALSE,FALSE,2 lb,10011
+3265,House Tyrell Provisions Wild Oldtown Mushrooms (2 lb),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,4.6,5.14,6.9,25.53,FALSE,TRUE,FALSE,2 lb,10011
+3266,House Tyrell Provisions Vintage Dragonstone Potatoes (Bunch),Produce,Greens,House Tyrell Provisions,FALSE,,1001,3.65,4.03,5.49,26.67,TRUE,TRUE,FALSE,Bunch,10011
+3267,House Tyrell Provisions Herbal The Reach Mushrooms (Bunch),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,1.92,2.08,2.78,25.17,TRUE,TRUE,TRUE,Bunch,10011
+3268,House Tyrell Provisions Honeyed The North Potatoes (Bunch),Produce,Roots,House Tyrell Provisions,FALSE,,1001,1.09,1.17,1.76,33.41,TRUE,TRUE,FALSE,Bunch,10011
+3269,House Tyrell Provisions Spiced Stormlands Strawberries (Each),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,1.19,1.28,1.76,27.28,TRUE,TRUE,FALSE,Each,10011
+3270,House Tyrell Provisions Vintage The Vale Carrots (Bunch),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,3.82,4.05,5.55,26.96,TRUE,TRUE,FALSE,Bunch,10011
+3271,House Tyrell Provisions Stone-Ground The Reach Mushrooms (2 lb),Produce,Greens,House Tyrell Provisions,FALSE,,1001,4.35,4.65,6.87,32.31,TRUE,TRUE,FALSE,2 lb,10011
+3272,House Tyrell Provisions Honeyed Highgarden Mushrooms (2 lb),Produce,Roots,House Tyrell Provisions,FALSE,,1001,4.13,4.47,6.36,29.79,TRUE,FALSE,FALSE,2 lb,10011
+3273,House Tyrell Provisions Roasted Dragonstone Potatoes (500 g),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,2.62,2.78,3.95,29.55,TRUE,FALSE,TRUE,500 g,10011
+3274,House Tyrell Provisions Oak-Aged Oldtown Carrots (Each),Produce,Greens,House Tyrell Provisions,FALSE,,1001,1.46,1.55,2.31,32.83,TRUE,TRUE,FALSE,Each,10011
+3275,House Tyrell Provisions Wild The Vale Mushrooms (2 lb),Produce,Herbs,House Tyrell Provisions,FALSE,,1001,2.49,2.71,3.73,27.4,TRUE,FALSE,FALSE,2 lb,10011
+3276,House Tyrell Provisions Sea-Salted The Vale Herb Bundle (500 g),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,2.81,3.03,4.28,29.3,TRUE,TRUE,FALSE,500 g,10011
+3277,House Tyrell Provisions Spiced The Reach Mushrooms (Each),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,1.82,2,2.68,25.69,TRUE,TRUE,FALSE,Each,10011
+3278,House Tyrell Provisions Vintage Dorne Carrots (2 lb),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,3.39,3.58,5.04,29.09,TRUE,TRUE,FALSE,2 lb,10011
+3279,House Tyrell Provisions Stone-Ground Iron Islands Strawberries (1 lb),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,4.54,5.07,7.13,28.94,TRUE,TRUE,FALSE,1 lb,10011
+3280,House Tyrell Provisions Stone-Ground Iron Islands Strawberries (Each),Produce,Greens,House Tyrell Provisions,FALSE,,1001,2.81,2.96,3.96,25.32,TRUE,TRUE,FALSE,Each,10011
+3281,House Tyrell Provisions Oak-Aged Oldtown Apples (1 lb),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,1.81,1.91,2.66,28.25,TRUE,TRUE,FALSE,1 lb,10011
+3282,House Tyrell Provisions Honeyed The Reach Apples (1 lb),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,2.48,2.75,4.04,31.88,TRUE,FALSE,FALSE,1 lb,10011
+3283,House Tyrell Provisions Herbal Crownlands Herb Bundle (2 lb),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,4.72,5.16,7.75,33.47,TRUE,TRUE,FALSE,2 lb,10011
+3284,House Tyrell Provisions Roasted Crownlands Herb Bundle (Bunch),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,1.35,1.49,2.09,28.47,FALSE,TRUE,FALSE,Bunch,10011
+3285,House Tyrell Provisions Sea-Salted Highgarden Herb Bundle (2 lb),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,2.23,2.49,3.59,30.67,TRUE,TRUE,FALSE,2 lb,10011
+3286,House Tyrell Provisions Golden Crownlands Carrots (Bunch),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,4.96,5.28,7.38,28.43,TRUE,TRUE,FALSE,Bunch,10011
+3287,House Tyrell Provisions Roasted The North Lettuces (Each),Produce,Herbs,House Tyrell Provisions,FALSE,,1001,2.18,2.41,3.22,25.07,FALSE,TRUE,FALSE,Each,10011
+3288,House Tyrell Provisions Stone-Ground Highgarden Herb Bundle (1 lb),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,3.37,3.67,4.99,26.43,TRUE,TRUE,FALSE,1 lb,10011
+3289,House Tyrell Provisions Sea-Salted Oldtown Potatoes (2 lb),Produce,Greens,House Tyrell Provisions,FALSE,,1001,1.96,2.1,2.95,28.84,TRUE,TRUE,FALSE,2 lb,10011
+3290,House Tyrell Provisions Golden Dragonstone Herb Bundle (500 g),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,3.77,4.09,5.73,28.6,TRUE,TRUE,FALSE,500 g,10011
+3291,House Tyrell Provisions Spiced Highgarden Potatoes (2 lb),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,2.37,2.58,3.95,34.65,TRUE,TRUE,FALSE,2 lb,10011
+3292,House Tyrell Provisions Wild Iron Islands Potatoes (2 lb),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,3.93,4.35,5.89,26.14,TRUE,TRUE,FALSE,2 lb,10011
+3293,House Tyrell Provisions Stone-Ground Oldtown Apples (Each),Produce,Mushrooms,House Tyrell Provisions,FALSE,,1001,4.91,5.25,7.73,32.11,TRUE,TRUE,FALSE,Each,10011
+3294,House Tyrell Provisions Vintage Dorne Carrots (2 lb),Produce,Fruits,House Tyrell Provisions,FALSE,,1001,3.88,4.28,6.07,29.39,TRUE,TRUE,FALSE,2 lb,10011
+3295,House Tyrell Provisions Golden Stormlands Strawberries (Each),Produce,Herbs,House Tyrell Provisions,FALSE,,1001,2.17,2.4,3.31,27.47,TRUE,TRUE,TRUE,Each,10011
+3296,House Tyrell Provisions Herbal Stormlands Strawberries (Bunch),Produce,Greens,House Tyrell Provisions,FALSE,,1001,4.34,4.66,6.63,29.63,TRUE,TRUE,FALSE,Bunch,10011
+3297,Smallfolk Essentials Herbal Dorne Chicken Breast (3 lb),Meat & Seafood,Shellfish,Smallfolk Essentials,TRUE,Value,,4.23,4.5,6.46,30.38,FALSE,FALSE,FALSE,3 lb,20002
+3298,Smallfolk Essentials Roasted The Vale Smoked Herring (1 lb),Meat & Seafood,Poultry,Smallfolk Essentials,TRUE,Value,,14.6,15.34,22.85,32.85,TRUE,TRUE,FALSE,1 lb,20002
+3299,Smallfolk Essentials Roasted Crownlands Salmon Fillet (2 lb),Meat & Seafood,Poultry,Smallfolk Essentials,TRUE,Value,,6.52,6.84,9.13,25.06,TRUE,TRUE,FALSE,2 lb,20002
+3300,Crown Reserve Roasted Dragonstone Salmon Fillet (16 oz),Meat & Seafood,Beef,Crown Reserve,TRUE,Luxury,,9.14,10.1,24.34,58.52,TRUE,TRUE,FALSE,16 oz,20003
+3301,The King’s Pantry Select Roasted Dorne Salmon Fillet (12 oz),Meat & Seafood,Shellfish,The King’s Pantry Select,TRUE,Premium,,11.8,12.92,24.07,46.34,TRUE,TRUE,FALSE,12 oz,20001
+3302,Smallfolk Essentials Spiced Oldtown Trout Fillet (1 lb),Meat & Seafood,Fish,Smallfolk Essentials,TRUE,Value,,15.72,16.59,22.37,25.87,TRUE,TRUE,FALSE,1 lb,20002
+3303,Smallfolk Essentials Spiced The Vale Venison Cuts (16 oz),Meat & Seafood,Beef,Smallfolk Essentials,TRUE,Value,,11.55,12.32,18.44,33.16,TRUE,TRUE,FALSE,16 oz,20002
+3304,The King’s Pantry Select Stone-Ground Highgarden Trout Fillet (1 lb),Meat & Seafood,Fish,The King’s Pantry Select,TRUE,Premium,,12.98,14.02,30.32,53.75,TRUE,TRUE,FALSE,1 lb,20001
+3305,Smallfolk Essentials Honeyed Dragonstone Venison Cuts (12 oz),Meat & Seafood,Poultry,Smallfolk Essentials,TRUE,Value,,15,15.98,23,30.55,TRUE,TRUE,FALSE,12 oz,20002
+3306,Smallfolk Essentials Oak-Aged The North Smoked Herring (3 lb),Meat & Seafood,Game,Smallfolk Essentials,TRUE,Value,,9.44,10.03,14.91,32.7,FALSE,TRUE,FALSE,3 lb,20002
+3307,Smallfolk Essentials Spiced The North Salmon Fillet (12 oz),Meat & Seafood,Poultry,Smallfolk Essentials,TRUE,Value,,4.04,4.24,6.35,33.25,FALSE,TRUE,FALSE,12 oz,20002
+3308,The King’s Pantry Select Stone-Ground The Reach Smoked Herring (16 oz),Meat & Seafood,Poultry,The King’s Pantry Select,TRUE,Premium,,7.42,7.91,16.59,52.35,FALSE,FALSE,FALSE,16 oz,20001
+3309,Crown Reserve Wild The Vale Chicken Breast (16 oz),Meat & Seafood,Fish,Crown Reserve,TRUE,Luxury,,17.94,19.82,53.87,63.2,TRUE,TRUE,FALSE,16 oz,20003
+3310,Crown Reserve Roasted The Vale Venison Cuts (12 oz),Meat & Seafood,Fish,Crown Reserve,TRUE,Luxury,,14.63,15.62,42.76,63.46,TRUE,TRUE,FALSE,12 oz,20003
+3311,The King’s Pantry Select Vintage The Vale Smoked Herring (16 oz),Meat & Seafood,Game,The King’s Pantry Select,TRUE,Premium,,12.2,13.11,23.65,44.58,TRUE,TRUE,FALSE,16 oz,20001
+3312,Crown Reserve Vintage Dragonstone Salmon Fillet (2 lb),Meat & Seafood,Fish,Crown Reserve,TRUE,Luxury,,10.08,11.24,23.5,52.18,TRUE,TRUE,FALSE,2 lb,20003
+3313,Smallfolk Essentials Stone-Ground Stormlands Salmon Fillet (12 oz),Meat & Seafood,Poultry,Smallfolk Essentials,TRUE,Value,,9.21,9.63,13.5,28.67,TRUE,TRUE,FALSE,12 oz,20002
+3314,The King’s Pantry Select Spiced The Reach Beef Brisket (12 oz),Meat & Seafood,Game,The King’s Pantry Select,TRUE,Premium,,4.9,5.25,9.68,45.71,TRUE,TRUE,FALSE,12 oz,20001
+3315,Smallfolk Essentials Sea-Salted Stormlands Salmon Fillet (16 oz),Meat & Seafood,Game,Smallfolk Essentials,TRUE,Value,,14.76,15.63,23.96,34.75,TRUE,TRUE,FALSE,16 oz,20002
+3316,Smallfolk Essentials Herbal Stormlands Venison Cuts (12 oz),Meat & Seafood,Fish,Smallfolk Essentials,TRUE,Value,,10.24,10.95,15.17,27.84,TRUE,TRUE,FALSE,12 oz,20002
+3317,Stormlands Meats Co. Wild Stormlands Salmon Fillet (12 oz),Meat & Seafood,Fish,Stormlands Meats Co.,FALSE,,1005,8.37,9.28,12.86,27.87,FALSE,TRUE,FALSE,12 oz,10015
+3318,Stormlands Meats Co. Stone-Ground Highgarden Beef Brisket (3 lb),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,17.24,18.13,23.41,22.57,TRUE,TRUE,FALSE,3 lb,10015
+3319,Stormlands Meats Co. Spiced The Vale Salmon Fillet (12 oz),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,14.83,15.97,21.89,27.03,TRUE,TRUE,FALSE,12 oz,10015
+3320,Stormlands Meats Co. Roasted Oldtown Smoked Herring (12 oz),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,7.24,7.85,9.9,20.65,TRUE,TRUE,FALSE,12 oz,10015
+3321,Stormlands Meats Co. Oak-Aged The Reach Venison Cuts (16 oz),Meat & Seafood,Beef,Stormlands Meats Co.,FALSE,,1005,11.3,12.41,16.69,25.64,TRUE,TRUE,FALSE,16 oz,10015
+3322,Stormlands Meats Co. Herbal The Vale Venison Cuts (1 lb),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,14.96,16.37,20.99,22.01,TRUE,TRUE,FALSE,1 lb,10015
+3323,Stormlands Meats Co. Herbal Dragonstone Trout Fillet (1 lb),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,9.35,10.43,14.69,29.01,TRUE,TRUE,FALSE,1 lb,10015
+3324,Stormlands Meats Co. Roasted Dorne Trout Fillet (1 lb),Meat & Seafood,Shellfish,Stormlands Meats Co.,FALSE,,1005,13.44,14.26,19.34,26.25,TRUE,TRUE,FALSE,1 lb,10015
+3325,Stormlands Meats Co. Sea-Salted Iron Islands Salmon Fillet (2 lb),Meat & Seafood,Fish,Stormlands Meats Co.,FALSE,,1005,5.86,6.35,8.02,20.76,TRUE,TRUE,FALSE,2 lb,10015
+3326,Stormlands Meats Co. Vintage Oldtown Salmon Fillet (12 oz),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,17.96,19.25,24.1,20.14,FALSE,TRUE,FALSE,12 oz,10015
+3327,Stormlands Meats Co. Wild The Vale Salmon Fillet (2 lb),Meat & Seafood,Fish,Stormlands Meats Co.,FALSE,,1005,9.63,10.65,13.66,22.09,TRUE,TRUE,TRUE,2 lb,10015
+3328,Stormlands Meats Co. Oak-Aged Highgarden Smoked Herring (2 lb),Meat & Seafood,Shellfish,Stormlands Meats Co.,FALSE,,1005,9.04,9.64,12.96,25.59,TRUE,TRUE,FALSE,2 lb,10015
+3329,Stormlands Meats Co. Vintage Dragonstone Smoked Herring (2 lb),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,4.05,4.47,6.25,28.52,TRUE,TRUE,FALSE,2 lb,10015
+3330,Stormlands Meats Co. Wild The Vale Chicken Breast (1 lb),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,13.42,14.39,19.81,27.35,FALSE,TRUE,FALSE,1 lb,10015
+3331,Stormlands Meats Co. Stone-Ground The Vale Beef Brisket (2 lb),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,5.61,6.14,8.11,24.27,TRUE,TRUE,FALSE,2 lb,10015
+3332,Stormlands Meats Co. Vintage Highgarden Beef Brisket (1 lb),Meat & Seafood,Fish,Stormlands Meats Co.,FALSE,,1005,13.27,14.61,19.48,25,TRUE,TRUE,FALSE,1 lb,10015
+3333,Stormlands Meats Co. Sea-Salted Highgarden Venison Cuts (1 lb),Meat & Seafood,Beef,Stormlands Meats Co.,FALSE,,1005,5.62,6.01,8.23,26.98,TRUE,FALSE,FALSE,1 lb,10015
+3334,Stormlands Meats Co. Sea-Salted The Reach Chicken Breast (12 oz),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,14.39,15.48,21.07,26.52,TRUE,TRUE,FALSE,12 oz,10015
+3335,Stormlands Meats Co. Honeyed Stormlands Beef Brisket (2 lb),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,12.13,13.52,18.08,25.22,TRUE,FALSE,FALSE,2 lb,10015
+3336,Stormlands Meats Co. Honeyed Highgarden Smoked Herring (2 lb),Meat & Seafood,Shellfish,Stormlands Meats Co.,FALSE,,1005,14.16,15.69,20.5,23.46,TRUE,FALSE,FALSE,2 lb,10015
+3337,Stormlands Meats Co. Sea-Salted Dragonstone Venison Cuts (2 lb),Meat & Seafood,Fish,Stormlands Meats Co.,FALSE,,1005,16.28,17.21,23.33,26.23,FALSE,TRUE,FALSE,2 lb,10015
+3338,Stormlands Meats Co. Vintage The Reach Chicken Breast (2 lb),Meat & Seafood,Shellfish,Stormlands Meats Co.,FALSE,,1005,4.64,5.12,7.09,27.78,TRUE,TRUE,FALSE,2 lb,10015
+3339,Stormlands Meats Co. Sea-Salted The North Chicken Breast (1 lb),Meat & Seafood,Game,Stormlands Meats Co.,FALSE,,1005,13.65,14.65,19.6,25.25,TRUE,TRUE,FALSE,1 lb,10015
+3340,Stormlands Meats Co. Herbal Dorne Smoked Herring (2 lb),Meat & Seafood,Fish,Stormlands Meats Co.,FALSE,,1005,4.92,5.21,6.95,25.02,TRUE,FALSE,FALSE,2 lb,10015
+3341,Stormlands Meats Co. Stone-Ground Dorne Venison Cuts (16 oz),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,12.09,13.19,18.4,28.35,TRUE,TRUE,TRUE,16 oz,10015
+3342,Stormlands Meats Co. Spiced Dorne Salmon Fillet (2 lb),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,10.58,11.6,15.45,24.97,TRUE,TRUE,FALSE,2 lb,10015
+3343,Stormlands Meats Co. Spiced Dorne Smoked Herring (1 lb),Meat & Seafood,Beef,Stormlands Meats Co.,FALSE,,1005,6.51,7.23,9.13,20.89,TRUE,TRUE,FALSE,1 lb,10015
+3344,Stormlands Meats Co. Wild The North Salmon Fillet (16 oz),Meat & Seafood,Beef,Stormlands Meats Co.,FALSE,,1005,10.51,11.67,14.78,21.03,TRUE,TRUE,TRUE,16 oz,10015
+3345,Stormlands Meats Co. Wild The Vale Beef Brisket (16 oz),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,6.1,6.67,8.75,23.74,TRUE,TRUE,FALSE,16 oz,10015
+3346,Stormlands Meats Co. Vintage The Reach Venison Cuts (3 lb),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,8.45,9.21,12.62,26.96,TRUE,TRUE,FALSE,3 lb,10015
+3347,Stormlands Meats Co. Spiced Iron Islands Beef Brisket (16 oz),Meat & Seafood,Poultry,Stormlands Meats Co.,FALSE,,1005,10.7,11.93,15.64,23.75,TRUE,TRUE,FALSE,16 oz,10015
+3348,Smallfolk Essentials Honeyed The North Honey Tart (6-Pack),Bakery & Sweets,Pies,Smallfolk Essentials,TRUE,Value,,4.83,5.14,7.57,32.04,TRUE,TRUE,FALSE,6-Pack,20002
+3349,The King’s Pantry Select Wild The Vale Honey Tart (6-Pack),Bakery & Sweets,Breads,The King’s Pantry Select,TRUE,Premium,,6.26,6.85,12.58,45.51,TRUE,TRUE,FALSE,6-Pack,20001
+3350,Crown Reserve Sea-Salted Dragonstone Rye Loaf (Loaf),Bakery & Sweets,Pastries,Crown Reserve,TRUE,Luxury,,3.18,3.42,7.24,52.76,TRUE,TRUE,FALSE,Loaf,20003
+3351,The King’s Pantry Select Spiced The North Wheat Bread (12 oz),Bakery & Sweets,Pies,The King’s Pantry Select,TRUE,Premium,,5.76,6.05,10.98,44.87,TRUE,TRUE,TRUE,12 oz,20001
+3352,Crown Reserve Sea-Salted The Reach Lemon Cake (8-Pack),Bakery & Sweets,Breads,Crown Reserve,TRUE,Luxury,,9.07,10.07,22.09,54.41,TRUE,TRUE,FALSE,8-Pack,20003
+3353,Crown Reserve Vintage Iron Islands Wheat Bread (8-Pack),Bakery & Sweets,Breads,Crown Reserve,TRUE,Luxury,,2.91,3.24,7.5,56.76,FALSE,TRUE,FALSE,8-Pack,20003
+3354,Smallfolk Essentials Herbal Stormlands Almond Cookie (16 oz),Bakery & Sweets,Breads,Smallfolk Essentials,TRUE,Value,,6.23,6.58,9.97,34.01,TRUE,TRUE,FALSE,16 oz,20002
+3355,Crown Reserve Spiced Stormlands Butter Biscuit (6-Pack),Bakery & Sweets,Cookies,Crown Reserve,TRUE,Luxury,,4.74,5.09,12.87,60.44,TRUE,TRUE,FALSE,6-Pack,20003
+3356,Smallfolk Essentials Vintage Oldtown Honey Tart (6-Pack),Bakery & Sweets,Pastries,Smallfolk Essentials,TRUE,Value,,1.39,1.48,2.25,34.53,TRUE,TRUE,FALSE,6-Pack,20002
+3357,Smallfolk Essentials Herbal Crownlands Honey Tart (6-Pack),Bakery & Sweets,Cookies,Smallfolk Essentials,TRUE,Value,,2.44,2.59,3.75,30.95,TRUE,TRUE,FALSE,6-Pack,20002
+3358,The King’s Pantry Select Vintage The North Rye Loaf (6-Pack),Bakery & Sweets,Cookies,The King’s Pantry Select,TRUE,Premium,,6.26,6.76,14.87,54.56,TRUE,TRUE,FALSE,6-Pack,20001
+3359,Crown Reserve Sea-Salted The Vale Almond Cookie (16 oz),Bakery & Sweets,Breads,Crown Reserve,TRUE,Luxury,,6.86,7.39,20.6,64.15,TRUE,TRUE,FALSE,16 oz,20003
+3360,Smallfolk Essentials Roasted Iron Islands Honey Tart (12 oz),Bakery & Sweets,Cookies,Smallfolk Essentials,TRUE,Value,,2.29,2.43,3.29,26.1,TRUE,TRUE,FALSE,12 oz,20002
+3361,The King’s Pantry Select Golden The Reach Rye Loaf (16 oz),Bakery & Sweets,Cookies,The King’s Pantry Select,TRUE,Premium,,6.18,6.51,11.4,42.87,FALSE,TRUE,TRUE,16 oz,20001
+3362,The King’s Pantry Select Sea-Salted Crownlands Butter Biscuit (Loaf),Bakery & Sweets,Cakes,The King’s Pantry Select,TRUE,Premium,,6.95,7.31,14.78,50.55,TRUE,TRUE,FALSE,Loaf,20001
+3363,Smallfolk Essentials Sea-Salted Highgarden Almond Cookie (8-Pack),Bakery & Sweets,Breads,Smallfolk Essentials,TRUE,Value,,4.88,5.09,7.54,32.48,TRUE,TRUE,FALSE,8-Pack,20002
+3364,Smallfolk Essentials Wild Highgarden Rye Loaf (Loaf),Bakery & Sweets,Cakes,Smallfolk Essentials,TRUE,Value,,1.4,1.47,2.04,27.63,TRUE,TRUE,TRUE,Loaf,20002
+3365,The King’s Pantry Select Golden The North Rye Loaf (8-Pack),Bakery & Sweets,Breads,The King’s Pantry Select,TRUE,Premium,,5.94,6.27,11.42,45.11,TRUE,FALSE,FALSE,8-Pack,20001
+3366,Crown Reserve Spiced The Reach Honey Tart (6-Pack),Bakery & Sweets,Cakes,Crown Reserve,TRUE,Luxury,,3.87,4.26,10.23,58.4,TRUE,FALSE,FALSE,6-Pack,20003
+3367,The King’s Pantry Select Honeyed The Reach Honey Tart (Loaf),Bakery & Sweets,Pastries,The King’s Pantry Select,TRUE,Premium,,6.68,7.12,13.11,45.7,TRUE,TRUE,FALSE,Loaf,20001
+3368,Crown Reserve Golden Iron Islands Honey Tart (Loaf),Bakery & Sweets,Cakes,Crown Reserve,TRUE,Luxury,,4.81,5.11,11.19,54.37,TRUE,TRUE,FALSE,Loaf,20003
+3369,Smallfolk Essentials Spiced Oldtown Butter Biscuit (12 oz),Bakery & Sweets,Cakes,Smallfolk Essentials,TRUE,Value,,2.45,2.58,3.82,32.4,TRUE,TRUE,FALSE,12 oz,20002
+3370,Smallfolk Essentials Herbal Crownlands Wheat Bread (16 oz),Bakery & Sweets,Pies,Smallfolk Essentials,TRUE,Value,,4.57,4.85,6.93,30.07,FALSE,TRUE,FALSE,16 oz,20002
+3371,The King’s Pantry Select Stone-Ground Oldtown Honey Tart (16 oz),Bakery & Sweets,Pies,The King’s Pantry Select,TRUE,Premium,,4.07,4.31,7.32,41.18,TRUE,TRUE,FALSE,16 oz,20001
+3372,The King’s Pantry Select Sea-Salted Highgarden Butter Biscuit (Loaf),Bakery & Sweets,Cakes,The King’s Pantry Select,TRUE,Premium,,2.25,2.45,4.55,46.22,TRUE,TRUE,FALSE,Loaf,20001
+3373,The King’s Pantry Select Wild Highgarden Lemon Cake (12 oz),Bakery & Sweets,Pies,The King’s Pantry Select,TRUE,Premium,,6.73,7.38,16.3,54.73,TRUE,TRUE,FALSE,12 oz,20001
+3374,Smallfolk Essentials Roasted Stormlands Lemon Cake (6-Pack),Bakery & Sweets,Pastries,Smallfolk Essentials,TRUE,Value,,2.1,2.22,3.24,31.52,TRUE,TRUE,FALSE,6-Pack,20002
+3375,Smallfolk Essentials Golden The Vale Rye Loaf (12 oz),Bakery & Sweets,Pastries,Smallfolk Essentials,TRUE,Value,,3.05,3.23,4.76,32.16,TRUE,TRUE,FALSE,12 oz,20002
+3376,Crown Reserve Spiced The North Butter Biscuit (Loaf),Bakery & Sweets,Cakes,Crown Reserve,TRUE,Luxury,,7.02,7.82,20.98,62.7,FALSE,TRUE,FALSE,Loaf,20003
+3377,The King’s Pantry Select Golden Dorne Lemon Cake (16 oz),Bakery & Sweets,Pastries,The King’s Pantry Select,TRUE,Premium,,2.89,3.06,5.64,45.83,FALSE,TRUE,FALSE,16 oz,20001
+3378,Crown Reserve Herbal Stormlands Honey Tart (6-Pack),Bakery & Sweets,Breads,Crown Reserve,TRUE,Luxury,,3.01,3.37,8.72,61.4,TRUE,TRUE,TRUE,6-Pack,20003
+3379,The King’s Pantry Select Herbal The North Honey Tart (6-Pack),Bakery & Sweets,Cookies,The King’s Pantry Select,TRUE,Premium,,2.98,3.27,5.65,42.04,TRUE,TRUE,FALSE,6-Pack,20001
+3380,Crown Reserve Oak-Aged The North Honey Tart (12 oz),Bakery & Sweets,Cakes,Crown Reserve,TRUE,Luxury,,6.1,6.52,14.69,55.64,TRUE,TRUE,FALSE,12 oz,20003
+3381,Crown Reserve Golden Stormlands Honey Tart (16 oz),Bakery & Sweets,Cookies,Crown Reserve,TRUE,Luxury,,8.15,9.01,24.28,62.91,TRUE,TRUE,FALSE,16 oz,20003
+3382,Crownland Creamery Stone-Ground Dragonstone Almond Cookie (Loaf),Bakery & Sweets,Pies,Crownland Creamery,FALSE,,1003,3.94,4.35,8.65,49.73,FALSE,TRUE,FALSE,Loaf,10013
+3383,Crownland Creamery Oak-Aged Crownlands Honey Tart (Loaf),Bakery & Sweets,Pastries,Crownland Creamery,FALSE,,1003,5.1,5.49,8.57,35.92,TRUE,TRUE,FALSE,Loaf,10013
+3384,Crownland Creamery Spiced The Reach Almond Cookie (6-Pack),Bakery & Sweets,Pastries,Crownland Creamery,FALSE,,1003,5.72,6.28,9.02,30.38,TRUE,TRUE,TRUE,6-Pack,10013
+3385,Crownland Creamery Stone-Ground Iron Islands Wheat Bread (12 oz),Bakery & Sweets,Pies,Crownland Creamery,FALSE,,1003,4.78,5.33,8.17,34.74,TRUE,TRUE,FALSE,12 oz,10013
+3386,Crownland Creamery Sea-Salted The Reach Wheat Bread (Loaf),Bakery & Sweets,Cookies,Crownland Creamery,FALSE,,1003,6.27,6.98,13.73,49.15,TRUE,TRUE,FALSE,Loaf,10013
+3387,Crownland Creamery Roasted Dragonstone Lemon Cake (16 oz),Bakery & Sweets,Breads,Crownland Creamery,FALSE,,1003,5.83,6.47,12.31,47.41,TRUE,TRUE,FALSE,16 oz,10013
+3388,Crownland Creamery Golden Crownlands Wheat Bread (8-Pack),Bakery & Sweets,Pastries,Crownland Creamery,FALSE,,1003,6.56,7.05,13.41,47.41,TRUE,TRUE,FALSE,8-Pack,10013
+3389,Crownland Creamery Stone-Ground The Vale Wheat Bread (16 oz),Bakery & Sweets,Pastries,Crownland Creamery,FALSE,,1003,4.62,4.92,8.06,38.96,TRUE,TRUE,FALSE,16 oz,10013
+3390,Crownland Creamery Golden Oldtown Wheat Bread (8-Pack),Bakery & Sweets,Pastries,Crownland Creamery,FALSE,,1003,2.05,2.27,3.8,40.31,TRUE,TRUE,FALSE,8-Pack,10013
+3391,Crownland Creamery Vintage Oldtown Wheat Bread (6-Pack),Bakery & Sweets,Pies,Crownland Creamery,FALSE,,1003,2.26,2.44,4.26,42.84,TRUE,FALSE,FALSE,6-Pack,10013
+3392,Crownland Creamery Stone-Ground Dorne Lemon Cake (16 oz),Bakery & Sweets,Pies,Crownland Creamery,FALSE,,1003,2.17,2.4,4.42,45.7,TRUE,TRUE,FALSE,16 oz,10013
+3393,Crownland Creamery Wild The Vale Lemon Cake (8-Pack),Bakery & Sweets,Cakes,Crownland Creamery,FALSE,,1003,4.1,4.5,6.74,33.2,TRUE,FALSE,FALSE,8-Pack,10013
+3394,Crownland Creamery Spiced The North Rye Loaf (16 oz),Bakery & Sweets,Pastries,Crownland Creamery,FALSE,,1003,4.63,5.07,9.51,46.65,TRUE,TRUE,FALSE,16 oz,10013
+3395,Crownland Creamery Stone-Ground Dorne Lemon Cake (6-Pack),Bakery & Sweets,Pastries,Crownland Creamery,FALSE,,1003,6.35,7.02,13.61,48.39,TRUE,FALSE,TRUE,6-Pack,10013
+3396,Crownland Creamery Wild Crownlands Lemon Cake (Loaf),Bakery & Sweets,Breads,Crownland Creamery,FALSE,,1003,6.4,6.79,12.39,45.19,TRUE,TRUE,FALSE,Loaf,10013
+3397,Crownland Creamery Herbal Dragonstone Almond Cookie (8-Pack),Bakery & Sweets,Cookies,Crownland Creamery,FALSE,,1003,6.54,7.09,10.23,30.73,TRUE,TRUE,FALSE,8-Pack,10013
+3398,Crownland Creamery Roasted Oldtown Honey Tart (12 oz),Bakery & Sweets,Cakes,Crownland Creamery,FALSE,,1003,4.32,4.6,7.27,36.76,TRUE,FALSE,FALSE,12 oz,10013
+3399,Smallfolk Essentials Wild Dorne Fish Pie (4-Pack),Frozen & Prepared,Sides,Smallfolk Essentials,TRUE,Value,,5.25,5.56,7.67,27.43,TRUE,TRUE,FALSE,4-Pack,20002
+3400,The King’s Pantry Select Roasted Oldtown Herb Dumplings (12 oz),Frozen & Prepared,Desserts,The King’s Pantry Select,TRUE,Premium,,8.53,9.14,18.52,50.65,TRUE,TRUE,FALSE,12 oz,20001
+3401,Smallfolk Essentials Oak-Aged Crownlands Stew Bowl (32 oz),Frozen & Prepared,Sides,Smallfolk Essentials,TRUE,Value,,2.39,2.49,3.7,32.57,TRUE,TRUE,FALSE,32 oz,20002
+3402,Smallfolk Essentials Honeyed The North Fish Pie (16 oz),Frozen & Prepared,Breakfast,Smallfolk Essentials,TRUE,Value,,2.65,2.83,4.29,34.13,TRUE,TRUE,FALSE,16 oz,20002
+3403,Smallfolk Essentials Stone-Ground Crownlands Pigeon Pie (32 oz),Frozen & Prepared,Breakfast,Smallfolk Essentials,TRUE,Value,,7.01,7.34,10.38,29.29,TRUE,FALSE,FALSE,32 oz,20002
+3404,The King’s Pantry Select Golden The Vale Lemon Custard (4-Pack),Frozen & Prepared,Vegetables,The King’s Pantry Select,TRUE,Premium,,2.52,2.67,4.75,43.9,TRUE,TRUE,TRUE,4-Pack,20001
+3405,The King’s Pantry Select Stone-Ground Oldtown Pigeon Pie (16 oz),Frozen & Prepared,Ready Meals,The King’s Pantry Select,TRUE,Premium,,4.35,4.68,7.95,41.11,TRUE,FALSE,FALSE,16 oz,20001
+3406,Crown Reserve Oak-Aged Dorne Fish Pie (4-Pack),Frozen & Prepared,Sides,Crown Reserve,TRUE,Luxury,,10.78,11.52,32.47,64.53,TRUE,TRUE,FALSE,4-Pack,20003
+3407,Crown Reserve Oak-Aged Highgarden Lemon Custard (16 oz),Frozen & Prepared,Ready Meals,Crown Reserve,TRUE,Luxury,,5.95,6.38,15.68,59.33,TRUE,FALSE,FALSE,16 oz,20003
+3408,Smallfolk Essentials Sea-Salted The Reach Stew Bowl (16 oz),Frozen & Prepared,Sides,Smallfolk Essentials,TRUE,Value,,6.51,6.83,9.93,31.19,TRUE,TRUE,FALSE,16 oz,20002
+3409,Crown Reserve Vintage Dorne Herb Dumplings (4-Pack),Frozen & Prepared,Sides,Crown Reserve,TRUE,Luxury,,11.2,12.25,31.79,61.47,TRUE,TRUE,FALSE,4-Pack,20003
+3410,Smallfolk Essentials Honeyed Dragonstone Lemon Custard (12 oz),Frozen & Prepared,Desserts,Smallfolk Essentials,TRUE,Value,,5.35,5.65,8.09,30.13,TRUE,TRUE,FALSE,12 oz,20002
+3411,Smallfolk Essentials Oak-Aged The North Berry Sorbet (4-Pack),Frozen & Prepared,Ready Meals,Smallfolk Essentials,TRUE,Value,,7.77,8.28,11.68,29.15,FALSE,TRUE,FALSE,4-Pack,20002
+3412,Smallfolk Essentials Oak-Aged The North Berry Sorbet (32 oz),Frozen & Prepared,Sides,Smallfolk Essentials,TRUE,Value,,2.97,3.11,4.43,29.92,TRUE,TRUE,FALSE,32 oz,20002
+3413,The King’s Pantry Select Sea-Salted Iron Islands Stew Bowl (16 oz),Frozen & Prepared,Ready Meals,The King’s Pantry Select,TRUE,Premium,,5.52,5.85,10.89,46.34,TRUE,FALSE,FALSE,16 oz,20001
+3414,Smallfolk Essentials Sea-Salted Highgarden Pigeon Pie (12 oz),Frozen & Prepared,Breakfast,Smallfolk Essentials,TRUE,Value,,5.33,5.7,7.94,28.24,TRUE,TRUE,FALSE,12 oz,20002
+3415,The King’s Pantry Select Sea-Salted Stormlands Herb Dumplings (4-Pack),Frozen & Prepared,Vegetables,The King’s Pantry Select,TRUE,Premium,,9.65,10.17,20.94,51.43,FALSE,TRUE,FALSE,4-Pack,20001
+3416,Smallfolk Essentials Golden Crownlands Fish Pie (4-Pack),Frozen & Prepared,Vegetables,Smallfolk Essentials,TRUE,Value,,3.5,3.64,5.56,34.48,TRUE,TRUE,FALSE,4-Pack,20002
+3417,Smallfolk Essentials Stone-Ground Highgarden Lemon Custard (24 oz),Frozen & Prepared,Breakfast,Smallfolk Essentials,TRUE,Value,,8.57,8.97,12.83,30.08,TRUE,TRUE,FALSE,24 oz,20002
+3418,The King’s Pantry Select Honeyed Iron Islands Meatloaf (24 oz),Frozen & Prepared,Desserts,The King’s Pantry Select,TRUE,Premium,,6.39,6.86,12.14,43.51,TRUE,TRUE,FALSE,24 oz,20001
+3419,The King’s Pantry Select Stone-Ground The Vale Berry Sorbet (12 oz),Frozen & Prepared,Breakfast,The King’s Pantry Select,TRUE,Premium,,3.65,3.94,6.64,40.66,TRUE,TRUE,FALSE,12 oz,20001
+3420,The King’s Pantry Select Spiced The North Berry Sorbet (12 oz),Frozen & Prepared,Breakfast,The King’s Pantry Select,TRUE,Premium,,2.64,2.81,5.58,49.64,TRUE,TRUE,FALSE,12 oz,20001
+3421,Smallfolk Essentials Oak-Aged Crownlands Berry Sorbet (16 oz),Frozen & Prepared,Vegetables,Smallfolk Essentials,TRUE,Value,,5.57,5.83,8.9,34.47,TRUE,TRUE,FALSE,16 oz,20002
+3422,Smallfolk Essentials Herbal Highgarden Stew Bowl (24 oz),Frozen & Prepared,Desserts,Smallfolk Essentials,TRUE,Value,,5.27,5.57,7.88,29.39,TRUE,TRUE,FALSE,24 oz,20002
+3423,Smallfolk Essentials Roasted The North Lemon Custard (12 oz),Frozen & Prepared,Breakfast,Smallfolk Essentials,TRUE,Value,,8.74,9.1,12.58,27.67,TRUE,TRUE,TRUE,12 oz,20002
+3424,Smallfolk Essentials Stone-Ground The North Berry Sorbet (32 oz),Frozen & Prepared,Breakfast,Smallfolk Essentials,TRUE,Value,,4.75,5.01,6.99,28.33,TRUE,FALSE,FALSE,32 oz,20002
+3425,Smallfolk Essentials Oak-Aged The Vale Fish Pie (16 oz),Frozen & Prepared,Sides,Smallfolk Essentials,TRUE,Value,,2.51,2.67,3.61,25.86,TRUE,TRUE,FALSE,16 oz,20002
+3426,The King’s Pantry Select Oak-Aged Crownlands Pigeon Pie (32 oz),Frozen & Prepared,Vegetables,The King’s Pantry Select,TRUE,Premium,,7,7.4,15.63,52.67,TRUE,TRUE,FALSE,32 oz,20001
+3427,The King’s Pantry Select Roasted The Vale Meatloaf (16 oz),Frozen & Prepared,Vegetables,The King’s Pantry Select,TRUE,Premium,,9.74,10.45,17.49,40.25,TRUE,TRUE,FALSE,16 oz,20001
+3428,Crown Reserve Wild Dragonstone Fish Pie (4-Pack),Frozen & Prepared,Sides,Crown Reserve,TRUE,Luxury,,4.74,5.17,13.7,62.24,TRUE,TRUE,TRUE,4-Pack,20003
+3429,Crown Reserve Wild Dorne Pigeon Pie (4-Pack),Frozen & Prepared,Sides,Crown Reserve,TRUE,Luxury,,10.6,11.61,32.72,64.51,TRUE,TRUE,FALSE,4-Pack,20003
+3430,The King’s Pantry Select Wild Dragonstone Berry Sorbet (4-Pack),Frozen & Prepared,Ready Meals,The King’s Pantry Select,TRUE,Premium,,3.41,3.64,6.23,41.67,TRUE,TRUE,FALSE,4-Pack,20001
+3431,The King’s Pantry Select Honeyed The Reach Meatloaf (32 oz),Frozen & Prepared,Sides,The King’s Pantry Select,TRUE,Premium,,3.33,3.61,6.13,41.14,TRUE,TRUE,FALSE,32 oz,20001
+3432,Crown Reserve Sea-Salted The Vale Lemon Custard (4-Pack),Frozen & Prepared,Breakfast,Crown Reserve,TRUE,Luxury,,8.61,9.17,22.9,59.94,TRUE,FALSE,FALSE,4-Pack,20003
+3433,Crown Reserve Spiced Oldtown Herb Dumplings (32 oz),Frozen & Prepared,Ready Meals,Crown Reserve,TRUE,Luxury,,7.16,7.77,16.49,52.89,TRUE,TRUE,FALSE,32 oz,20003
+3434,Smallfolk Essentials Honeyed Stormlands Lemon Custard (16 oz),Frozen & Prepared,Vegetables,Smallfolk Essentials,TRUE,Value,,7.68,8.14,11.27,27.74,FALSE,TRUE,FALSE,16 oz,20002
+3435,Smallfolk Essentials Roasted Dorne Stew Bowl (4-Pack),Frozen & Prepared,Sides,Smallfolk Essentials,TRUE,Value,,8.87,9.4,13.81,31.92,TRUE,TRUE,FALSE,4-Pack,20002
+3436,Northwind Frozen Foods Golden Stormlands Berry Sorbet (16 oz),Frozen & Prepared,Breakfast,Northwind Frozen Foods,FALSE,,1007,3.18,3.44,5.17,33.42,TRUE,TRUE,FALSE,16 oz,10017
+3437,Northwind Frozen Foods Sea-Salted Iron Islands Fish Pie (12 oz),Frozen & Prepared,Vegetables,Northwind Frozen Foods,FALSE,,1007,7.87,8.78,13.08,32.89,TRUE,TRUE,FALSE,12 oz,10017
+3438,Northwind Frozen Foods Stone-Ground Crownlands Berry Sorbet (16 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,8.76,9.45,13.34,29.11,TRUE,TRUE,FALSE,16 oz,10017
+3439,Northwind Frozen Foods Honeyed Highgarden Fish Pie (16 oz),Frozen & Prepared,Desserts,Northwind Frozen Foods,FALSE,,1007,5.74,6.09,8.35,27.13,TRUE,TRUE,TRUE,16 oz,10017
+3440,Northwind Frozen Foods Spiced Stormlands Fish Pie (32 oz),Frozen & Prepared,Ready Meals,Northwind Frozen Foods,FALSE,,1007,2.53,2.82,3.79,25.55,TRUE,TRUE,FALSE,32 oz,10017
+3441,Northwind Frozen Foods Golden Iron Islands Meatloaf (32 oz),Frozen & Prepared,Ready Meals,Northwind Frozen Foods,FALSE,,1007,3.99,4.25,5.91,28.04,TRUE,FALSE,FALSE,32 oz,10017
+3442,Northwind Frozen Foods Vintage The Vale Pigeon Pie (24 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,4.27,4.54,6.55,30.68,TRUE,TRUE,FALSE,24 oz,10017
+3443,Northwind Frozen Foods Sea-Salted The Vale Meatloaf (32 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,5.01,5.42,7.54,28.18,TRUE,TRUE,FALSE,32 oz,10017
+3444,Northwind Frozen Foods Spiced Iron Islands Berry Sorbet (12 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,6.72,7.28,10.62,31.41,TRUE,TRUE,FALSE,12 oz,10017
+3445,Northwind Frozen Foods Sea-Salted Iron Islands Lemon Custard (24 oz),Frozen & Prepared,Ready Meals,Northwind Frozen Foods,FALSE,,1007,3.87,4.15,6.12,32.26,TRUE,TRUE,TRUE,24 oz,10017
+3446,Northwind Frozen Foods Sea-Salted Stormlands Meatloaf (24 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,6.84,7.23,11.02,34.38,TRUE,TRUE,TRUE,24 oz,10017
+3447,Northwind Frozen Foods Herbal Oldtown Lemon Custard (32 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,8.97,9.72,13.49,27.91,TRUE,TRUE,FALSE,32 oz,10017
+3448,Northwind Frozen Foods Herbal Highgarden Pigeon Pie (12 oz),Frozen & Prepared,Desserts,Northwind Frozen Foods,FALSE,,1007,8.61,9.1,13.21,31.1,TRUE,TRUE,FALSE,12 oz,10017
+3449,Northwind Frozen Foods Golden Oldtown Stew Bowl (32 oz),Frozen & Prepared,Ready Meals,Northwind Frozen Foods,FALSE,,1007,5.81,6.44,9.08,29.09,TRUE,TRUE,TRUE,32 oz,10017
+3450,Northwind Frozen Foods Honeyed Iron Islands Fish Pie (16 oz),Frozen & Prepared,Breakfast,Northwind Frozen Foods,FALSE,,1007,3.63,3.96,5.28,25.03,TRUE,TRUE,FALSE,16 oz,10017
+3451,Northwind Frozen Foods Oak-Aged Dragonstone Meatloaf (12 oz),Frozen & Prepared,Desserts,Northwind Frozen Foods,FALSE,,1007,5.47,5.9,8.45,30.15,TRUE,TRUE,FALSE,12 oz,10017
+3452,Northwind Frozen Foods Honeyed Oldtown Stew Bowl (12 oz),Frozen & Prepared,Desserts,Northwind Frozen Foods,FALSE,,1007,6.66,7.2,9.73,26.03,TRUE,FALSE,FALSE,12 oz,10017
+3453,Northwind Frozen Foods Herbal The Vale Berry Sorbet (32 oz),Frozen & Prepared,Ready Meals,Northwind Frozen Foods,FALSE,,1007,5.05,5.61,8.57,34.53,TRUE,TRUE,FALSE,32 oz,10017
+3454,Northwind Frozen Foods Spiced Crownlands Lemon Custard (12 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,5.85,6.4,9.01,28.97,FALSE,TRUE,FALSE,12 oz,10017
+3455,Northwind Frozen Foods Vintage Crownlands Stew Bowl (24 oz),Frozen & Prepared,Ready Meals,Northwind Frozen Foods,FALSE,,1007,4.19,4.58,6.18,25.95,FALSE,FALSE,FALSE,24 oz,10017
+3456,Northwind Frozen Foods Vintage Iron Islands Fish Pie (16 oz),Frozen & Prepared,Desserts,Northwind Frozen Foods,FALSE,,1007,6.39,6.91,9.39,26.46,TRUE,TRUE,FALSE,16 oz,10017
+3457,Northwind Frozen Foods Honeyed Oldtown Pigeon Pie (32 oz),Frozen & Prepared,Breakfast,Northwind Frozen Foods,FALSE,,1007,6.71,7.34,10.81,32.1,TRUE,TRUE,FALSE,32 oz,10017
+3458,Northwind Frozen Foods Wild Dorne Lemon Custard (24 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,9.85,10.93,16.68,34.47,TRUE,TRUE,FALSE,24 oz,10017
+3459,Northwind Frozen Foods Vintage Highgarden Pigeon Pie (24 oz),Frozen & Prepared,Sides,Northwind Frozen Foods,FALSE,,1007,4.71,5.14,7.65,32.82,TRUE,TRUE,TRUE,24 oz,10017
+3460,The King’s Pantry Select Vintage Highgarden Honey Jar (250 ml),Gourmet & Specialty,Oils,The King’s Pantry Select,TRUE,Premium,,12.73,13.41,27.05,50.43,TRUE,TRUE,FALSE,250 ml,20001
+3461,Smallfolk Essentials Stone-Ground The North Saffron Threads (8 oz),Gourmet & Specialty,Oils,Smallfolk Essentials,TRUE,Value,,12.59,13.21,18.13,27.17,TRUE,TRUE,FALSE,8 oz,20002
+3462,The King’s Pantry Select Vintage The North Olive Oil (200 g),Gourmet & Specialty,Jams,The King’s Pantry Select,TRUE,Premium,,13.76,15.02,28.66,47.59,TRUE,TRUE,FALSE,200 g,20001
+3463,Smallfolk Essentials Wild The Vale Honey Jar (250 ml),Gourmet & Specialty,Oils,Smallfolk Essentials,TRUE,Value,,6.75,7.22,10.22,29.3,TRUE,TRUE,TRUE,250 ml,20002
+3464,The King’s Pantry Select Herbal The Vale Spice Blend (500 ml),Gourmet & Specialty,Spices,The King’s Pantry Select,TRUE,Premium,,4.15,4.53,9.34,51.51,FALSE,TRUE,FALSE,500 ml,20001
+3465,Crown Reserve Sea-Salted Dragonstone Olive Oil (200 g),Gourmet & Specialty,Jams,Crown Reserve,TRUE,Luxury,,8.22,8.92,22.67,60.65,TRUE,TRUE,FALSE,200 g,20003
+3466,The King’s Pantry Select Stone-Ground Highgarden Olive Oil (500 ml),Gourmet & Specialty,Jams,The King’s Pantry Select,TRUE,Premium,,5.44,5.85,12.29,52.38,TRUE,TRUE,TRUE,500 ml,20001
+3467,The King’s Pantry Select Oak-Aged Dragonstone Honey Jar (12 oz),Gourmet & Specialty,Oils,The King’s Pantry Select,TRUE,Premium,,11.1,11.98,25.78,53.53,FALSE,FALSE,FALSE,12 oz,20001
+3468,Smallfolk Essentials Spiced Dorne Sea Salt (8 oz),Gourmet & Specialty,Jams,Smallfolk Essentials,TRUE,Value,,5.28,5.5,7.7,28.61,TRUE,TRUE,FALSE,8 oz,20002
+3469,Smallfolk Essentials Honeyed Iron Islands Saffron Threads (8 oz),Gourmet & Specialty,Cheeses,Smallfolk Essentials,TRUE,Value,,4.47,4.76,6.85,30.53,TRUE,TRUE,TRUE,8 oz,20002
+3470,The King’s Pantry Select Wild Highgarden Mustard (200 g),Gourmet & Specialty,Condiments,The King’s Pantry Select,TRUE,Premium,,7.95,8.68,16.8,48.34,TRUE,TRUE,FALSE,200 g,20001
+3471,The King’s Pantry Select Golden Oldtown Mustard (250 ml),Gourmet & Specialty,Cheeses,The King’s Pantry Select,TRUE,Premium,,6.56,7.02,13.46,47.8,TRUE,TRUE,FALSE,250 ml,20001
+3472,Smallfolk Essentials Roasted Dorne Olive Oil (12 oz),Gourmet & Specialty,Cheeses,Smallfolk Essentials,TRUE,Value,,3.77,4,5.87,31.78,TRUE,TRUE,FALSE,12 oz,20002
+3473,The King’s Pantry Select Wild Stormlands Honey Jar (8 oz),Gourmet & Specialty,Oils,The King’s Pantry Select,TRUE,Premium,,14.9,15.73,32.14,51.07,TRUE,TRUE,FALSE,8 oz,20001
+3474,The King’s Pantry Select Oak-Aged Iron Islands Spice Blend (8 oz),Gourmet & Specialty,Spices,The King’s Pantry Select,TRUE,Premium,,7.37,8.07,14.84,45.6,TRUE,TRUE,FALSE,8 oz,20001
+3475,Smallfolk Essentials Wild The North Mustard (250 ml),Gourmet & Specialty,Spices,Smallfolk Essentials,TRUE,Value,,8.08,8.6,12.67,32.15,TRUE,TRUE,FALSE,250 ml,20002
+3476,Smallfolk Essentials Vintage Highgarden Fig Jam (200 g),Gourmet & Specialty,Cheeses,Smallfolk Essentials,TRUE,Value,,7.85,8.19,10.94,25.08,FALSE,TRUE,FALSE,200 g,20002
+3477,The King’s Pantry Select Wild Highgarden Saffron Threads (250 ml),Gourmet & Specialty,Condiments,The King’s Pantry Select,TRUE,Premium,,5.2,5.64,12.07,53.31,TRUE,TRUE,FALSE,250 ml,20001
+3478,Smallfolk Essentials Wild The Vale Honey Jar (12 oz),Gourmet & Specialty,Spices,Smallfolk Essentials,TRUE,Value,,3.13,3.28,4.98,34.15,TRUE,TRUE,FALSE,12 oz,20002
+3479,Smallfolk Essentials Honeyed Iron Islands Pepper Sauce (200 g),Gourmet & Specialty,Oils,Smallfolk Essentials,TRUE,Value,,3.9,4.13,5.79,28.69,FALSE,TRUE,FALSE,200 g,20002
+3480,The King’s Pantry Select Spiced The North Saffron Threads (8 oz),Gourmet & Specialty,Jams,The King’s Pantry Select,TRUE,Premium,,3.12,3.36,6.07,44.6,TRUE,TRUE,FALSE,8 oz,20001
+3481,The King’s Pantry Select Sea-Salted Dragonstone Pepper Sauce (200 g),Gourmet & Specialty,Oils,The King’s Pantry Select,TRUE,Premium,,5.43,5.92,12.98,54.39,FALSE,TRUE,FALSE,200 g,20001
+3482,The King’s Pantry Select Roasted The North Mustard (200 g),Gourmet & Specialty,Cheeses,The King’s Pantry Select,TRUE,Premium,,14.06,15.05,26.66,43.55,TRUE,TRUE,TRUE,200 g,20001
+3483,Crown Reserve Sea-Salted Stormlands Mustard (12 oz),Gourmet & Specialty,Condiments,Crown Reserve,TRUE,Luxury,,10.28,11.26,27.42,58.93,TRUE,TRUE,FALSE,12 oz,20003
+3484,The King’s Pantry Select Spiced Oldtown Spice Blend (8 oz),Gourmet & Specialty,Spices,The King’s Pantry Select,TRUE,Premium,,10.65,11.57,25.49,54.6,TRUE,TRUE,FALSE,8 oz,20001
+3485,Dornish Spice Traders Vintage The North Pepper Sauce (500 ml),Gourmet & Specialty,Jams,Dornish Spice Traders,FALSE,,1004,4.44,4.96,11.69,57.55,TRUE,FALSE,FALSE,500 ml,10014
+3486,Dornish Spice Traders Vintage The Reach Spice Blend (500 ml),Gourmet & Specialty,Jams,Dornish Spice Traders,FALSE,,1004,8.65,9.34,18.26,48.87,TRUE,TRUE,FALSE,500 ml,10014
+3487,Dornish Spice Traders Herbal Stormlands Mustard (500 ml),Gourmet & Specialty,Condiments,Dornish Spice Traders,FALSE,,1004,8.21,8.68,15.31,43.33,TRUE,TRUE,FALSE,500 ml,10014
+3488,Dornish Spice Traders Stone-Ground The Reach Spice Blend (250 ml),Gourmet & Specialty,Condiments,Dornish Spice Traders,FALSE,,1004,7.76,8.57,14.83,42.18,FALSE,TRUE,FALSE,250 ml,10014
+3489,Dornish Spice Traders Honeyed Highgarden Mustard (12 oz),Gourmet & Specialty,Condiments,Dornish Spice Traders,FALSE,,1004,3.5,3.77,8.26,54.37,TRUE,TRUE,FALSE,12 oz,10014
+3490,Dornish Spice Traders Wild The North Sea Salt (250 ml),Gourmet & Specialty,Condiments,Dornish Spice Traders,FALSE,,1004,11.1,12.08,30.06,59.8,TRUE,TRUE,FALSE,250 ml,10014
+3491,Dornish Spice Traders Stone-Ground Iron Islands Spice Blend (200 g),Gourmet & Specialty,Cheeses,Dornish Spice Traders,FALSE,,1004,6.27,6.84,11.45,40.21,FALSE,TRUE,FALSE,200 g,10014
+3492,Dornish Spice Traders Herbal Iron Islands Sea Salt (500 ml),Gourmet & Specialty,Spices,Dornish Spice Traders,FALSE,,1004,7.8,8.32,20.72,59.86,TRUE,TRUE,TRUE,500 ml,10014
+3493,Dornish Spice Traders Wild Highgarden Honey Jar (500 ml),Gourmet & Specialty,Oils,Dornish Spice Traders,FALSE,,1004,11.55,12.69,21.97,42.23,TRUE,TRUE,FALSE,500 ml,10014
+3494,Dornish Spice Traders Oak-Aged Iron Islands Pepper Sauce (200 g),Gourmet & Specialty,Cheeses,Dornish Spice Traders,FALSE,,1004,6.04,6.54,14.85,55.94,TRUE,TRUE,FALSE,200 g,10014
+3495,Dornish Spice Traders Sea-Salted Oldtown Sea Salt (500 ml),Gourmet & Specialty,Condiments,Dornish Spice Traders,FALSE,,1004,13.04,13.85,23.94,42.15,TRUE,TRUE,FALSE,500 ml,10014
+3496,Dornish Spice Traders Golden The Reach Spice Blend (500 ml),Gourmet & Specialty,Cheeses,Dornish Spice Traders,FALSE,,1004,8.09,9.05,18.54,51.18,TRUE,TRUE,FALSE,500 ml,10014
+3497,Dornish Spice Traders Honeyed Oldtown Honey Jar (8 oz),Gourmet & Specialty,Spices,Dornish Spice Traders,FALSE,,1004,12.09,13.33,24.09,44.68,TRUE,TRUE,TRUE,8 oz,10014
+3498,Dornish Spice Traders Stone-Ground Stormlands Spice Blend (8 oz),Gourmet & Specialty,Spices,Dornish Spice Traders,FALSE,,1004,13.92,14.92,31.5,52.64,TRUE,TRUE,FALSE,8 oz,10014
+3499,Dornish Spice Traders Golden Oldtown Honey Jar (250 ml),Gourmet & Specialty,Condiments,Dornish Spice Traders,FALSE,,1004,3.07,3.24,7.83,58.66,FALSE,TRUE,FALSE,250 ml,10014
+3500,Dornish Spice Traders Spiced Highgarden Mustard (8 oz),Gourmet & Specialty,Spices,Dornish Spice Traders,FALSE,,1004,11.47,12.39,26.84,53.83,TRUE,TRUE,FALSE,8 oz,10014
+3501,Smallfolk Essentials Spiced The Vale Candle (3-Pack),Apothecary & Household Essentials,Soaps & Scents,Smallfolk Essentials,TRUE,Value,,4.48,4.71,7.64,38.34,TRUE,TRUE,FALSE,3-Pack,20002
+3502,Smallfolk Essentials Sea-Salted Stormlands Surface Cleanser (16 oz),Apothecary & Household Essentials,Cleaning Supplies,Smallfolk Essentials,TRUE,Value,,8.45,8.98,14.65,38.74,FALSE,TRUE,FALSE,16 oz,20002
+3503,Smallfolk Essentials Rose Iron Islands Cotton Rags (Each),Apothecary & Household Essentials,Household Tools,Smallfolk Essentials,TRUE,Value,,10.02,10.63,18.88,43.71,TRUE,FALSE,FALSE,Each,20002
+3504,Smallfolk Essentials Honeyed Oldtown Surface Cleanser (3-Pack),Apothecary & Household Essentials,Cleaning Supplies,Smallfolk Essentials,TRUE,Value,,4.65,4.89,7.71,36.62,TRUE,TRUE,FALSE,3-Pack,20002
+3505,Smallfolk Essentials Sea-Salted The Vale Surface Cleanser (8 oz),Apothecary & Household Essentials,Cleaning Supplies,Smallfolk Essentials,TRUE,Value,,2.44,2.56,4.46,42.55,TRUE,FALSE,FALSE,8 oz,20002
+3506,Smallfolk Essentials Lavender Highgarden Body Oil (8 oz),Apothecary & Household Essentials,Soaps & Scents,Smallfolk Essentials,TRUE,Value,,2.09,2.22,3.46,35.87,TRUE,TRUE,FALSE,8 oz,20002
+3507,Smallfolk Essentials Citrus Highgarden All-Purpose Spray (6-Pack),Apothecary & Household Essentials,Cleaning Supplies,Smallfolk Essentials,TRUE,Value,,5.51,5.84,10.25,43.01,TRUE,TRUE,FALSE,6-Pack,20002
+3508,Smallfolk Essentials Spiced Iron Islands All-Purpose Spray (12 oz),Apothecary & Household Essentials,Cleaning Supplies,Smallfolk Essentials,TRUE,Value,,2.5,2.63,4.49,41.31,TRUE,TRUE,FALSE,12 oz,20002
+3509,Smallfolk Essentials Honeyed The Vale Mint Ointment (16 oz),Apothecary & Household Essentials,Remedies & Balms,Smallfolk Essentials,TRUE,Value,,2.4,2.53,4.17,39.44,TRUE,TRUE,FALSE,16 oz,20002
+3510,Smallfolk Essentials Citrus Stormlands Body Oil (Each),Apothecary & Household Essentials,Soaps & Scents,Smallfolk Essentials,TRUE,Value,,9.54,10.06,16.69,39.74,TRUE,TRUE,FALSE,Each,20002
+3511,Smallfolk Essentials Citrus Oldtown Bar Soap (8 oz),Apothecary & Household Essentials,Soaps & Scents,Smallfolk Essentials,TRUE,Value,,7.25,7.72,12.17,36.5,FALSE,TRUE,FALSE,8 oz,20002
+3512,Smallfolk Essentials Pure Crownlands Chest Rub (Each),Apothecary & Household Essentials,Remedies & Balms,Smallfolk Essentials,TRUE,Value,,2.11,2.24,3.51,36.17,TRUE,TRUE,FALSE,Each,20002
+3513,The King’s Pantry Select Lavender Iron Islands All-Purpose Spray (8 oz),Apothecary & Household Essentials,Cleaning Supplies,The King’s Pantry Select,TRUE,Premium,,9.82,10.65,22.46,52.57,TRUE,TRUE,FALSE,8 oz,20001
+3514,The King’s Pantry Select Honeyed The North Mint Ointment (500 ml),Apothecary & Household Essentials,Remedies & Balms,The King’s Pantry Select,TRUE,Premium,,9.85,10.76,23.68,54.58,TRUE,TRUE,FALSE,500 ml,20001
+3515,The King’s Pantry Select Herbal Oldtown Herbal Salve (Each),Apothecary & Household Essentials,Remedies & Balms,The King’s Pantry Select,TRUE,Premium,,7.54,8.17,17.7,53.81,TRUE,FALSE,FALSE,Each,20001
+3516,Crown Reserve Herbal Dorne Floor Wash (8 oz),Apothecary & Household Essentials,Cleaning Supplies,Crown Reserve,TRUE,Luxury,,8.07,8.98,19.35,53.61,TRUE,TRUE,FALSE,8 oz,20003
+3517,Crown Reserve Oak-Aged Oldtown All-Purpose Spray (3-Pack),Apothecary & Household Essentials,Cleaning Supplies,Crown Reserve,TRUE,Luxury,,5.24,5.65,11.4,50.4,TRUE,TRUE,TRUE,3-Pack,20003
+3518,Crown Reserve Oak-Aged Oldtown Scrubbing Brush (6-Pack),Apothecary & Household Essentials,Household Tools,Crown Reserve,TRUE,Luxury,,6.9,7.35,17.02,56.81,FALSE,TRUE,FALSE,6-Pack,20003
+3519,Crown Reserve Sea-Salted Iron Islands Scrubbing Brush (250 ml),Apothecary & Household Essentials,Household Tools,Crown Reserve,TRUE,Luxury,,13.12,14.25,30.77,53.67,TRUE,TRUE,TRUE,250 ml,20003
+3520,Crown Reserve Citrus Highgarden Degreasing Elixir (250 ml),Apothecary & Household Essentials,Cleaning Supplies,Crown Reserve,TRUE,Luxury,,5.59,5.96,12.88,53.75,TRUE,TRUE,FALSE,250 ml,20003
+3521,Maester’s Apothecary Co. Pure The Vale Surface Cleanser (Each),Apothecary & Household Essentials,Cleaning Supplies,Maester’s Apothecary Co.,FALSE,,1011,10.33,11.19,19.7,43.18,TRUE,TRUE,FALSE,Each,10021
+3522,Maester’s Apothecary Co. Herbal Highgarden Cotton Rags (16 oz),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,8.77,9.27,14.56,36.3,TRUE,TRUE,FALSE,16 oz,10021
+3523,Maester’s Apothecary Co. Honeyed The Vale Scrubbing Brush (12 oz),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,9.07,9.81,19.4,49.43,FALSE,TRUE,FALSE,12 oz,10021
+3524,Maester’s Apothecary Co. Sea-Salted Stormlands Candle (6-Pack),Apothecary & Household Essentials,Soaps & Scents,Maester’s Apothecary Co.,FALSE,,1011,9.99,10.91,17.29,36.9,TRUE,TRUE,FALSE,6-Pack,10021
+3525,Maester’s Apothecary Co. Minted Highgarden Scrubbing Brush (6-Pack),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,11.86,12.61,20.14,37.39,TRUE,TRUE,FALSE,6-Pack,10021
+3526,Maester’s Apothecary Co. Spiced Stormlands Bucket (Each),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,8.9,9.36,16.83,44.38,TRUE,TRUE,TRUE,Each,10021
+3527,Maester’s Apothecary Co. Herbal The Vale Perfumed Oil (16 oz),Apothecary & Household Essentials,Soaps & Scents,Maester’s Apothecary Co.,FALSE,,1011,10.77,11.77,19.06,38.24,TRUE,TRUE,FALSE,16 oz,10021
+3528,Maester’s Apothecary Co. Rose Stormlands Cotton Rags (12 oz),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,5.89,6.42,12.33,47.91,TRUE,TRUE,FALSE,12 oz,10021
+3529,Maester’s Apothecary Co. Spiced The Reach Stain Remover (6-Pack),Apothecary & Household Essentials,Laundry & Fabrics,Maester’s Apothecary Co.,FALSE,,1011,7.25,7.82,13.64,42.71,TRUE,TRUE,FALSE,6-Pack,10021
+3530,Maester’s Apothecary Co. Lavender Iron Islands Liquid Wash (16 oz),Apothecary & Household Essentials,Laundry & Fabrics,Maester’s Apothecary Co.,FALSE,,1011,11.23,12.2,23.36,47.77,TRUE,TRUE,FALSE,16 oz,10021
+3531,Maester’s Apothecary Co. Oak-Aged Crownlands Candle (250 ml),Apothecary & Household Essentials,Soaps & Scents,Maester’s Apothecary Co.,FALSE,,1011,5.34,5.67,10,43.3,TRUE,TRUE,FALSE,250 ml,10021
+3532,Maester’s Apothecary Co. Citrus Stormlands Broom (12 oz),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,11.83,12.71,24.34,47.79,TRUE,TRUE,FALSE,12 oz,10021
+3533,Maester’s Apothecary Co. Citrus The Vale Broom (3-Pack),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,9.33,10.19,17.32,41.17,TRUE,TRUE,FALSE,3-Pack,10021
+3534,Maester’s Apothecary Co. Pure The North Cotton Rags (16 oz),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,5.04,5.52,10.77,48.77,TRUE,TRUE,FALSE,16 oz,10021
+3535,Maester’s Apothecary Co. Sea-Salted Iron Islands Bucket (Bar),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,9.59,10.45,18.81,44.47,TRUE,TRUE,FALSE,Bar,10021
+3536,Maester’s Apothecary Co. Honeyed The Vale Stain Remover (Bar),Apothecary & Household Essentials,Laundry & Fabrics,Maester’s Apothecary Co.,FALSE,,1011,8.65,9.43,16.31,42.16,TRUE,TRUE,FALSE,Bar,10021
+3537,Maester’s Apothecary Co. Herbal Crownlands Herbal Salve (500 ml),Apothecary & Household Essentials,Remedies & Balms,Maester’s Apothecary Co.,FALSE,,1011,5.01,5.36,9.06,40.86,TRUE,TRUE,TRUE,500 ml,10021
+3538,Maester’s Apothecary Co. Pure Crownlands Perfumed Oil (6-Pack),Apothecary & Household Essentials,Soaps & Scents,Maester’s Apothecary Co.,FALSE,,1011,9.06,9.69,15.95,39.22,TRUE,FALSE,FALSE,6-Pack,10021
+3539,Maester’s Apothecary Co. Citrus Crownlands Linen Elixir (3-Pack),Apothecary & Household Essentials,Laundry & Fabrics,Maester’s Apothecary Co.,FALSE,,1011,11.45,12.05,19.23,37.34,TRUE,FALSE,FALSE,3-Pack,10021
+3540,Maester’s Apothecary Co. Minted The North Broom (Each),Apothecary & Household Essentials,Household Tools,Maester’s Apothecary Co.,FALSE,,1011,8.2,8.84,17.34,48.99,TRUE,TRUE,FALSE,Each,10021

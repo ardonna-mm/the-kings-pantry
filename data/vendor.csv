@@ -1,0 +1,12 @@
+vendor_id,vendor_name,region,contact_first_name,contact_last_name,supply_type,is_active_flag,preferred_vendor_flag
+1001,House Tyrell Provisions,The Reach,Margaery,Tyrell,Produce,True,True
+1002,Iron Isles Fisheries,The Iron Islands,Aeron,Greyjoy,Seafood,True,False
+1003,Crownland Creamery,The Crownlands,Pycelle,Grand,Dairy & Bakery,True,True
+1004,Dornish Spice Traders,Dorne,Oberyn,Martell,Gourmet & Spices,True,True
+1005,Stormlands Meats Co.,The Stormlands,Brienne,Tarth,Meat & Poultry,True,False
+1006,Vale Harvest Co.,The Vale,Lysa,Arryn,Produce & Grains,True,True
+1007,Northwind Frozen Foods,The North,Lyanna,Mormont,Frozen & Prepared,True,False
+1008,Seaworth Shipping & Supply,The Crownlands,Davos,Seaworth,Imports & Distribution,True,True
+1009,Citadel Imports,Oldtown,Marwyn,The Mage,Specialty Imports,True,False
+1010,Dragonstone Brewing Co.,Dragonstone,Stannis,Baratheon,Beverages,True,True
+1011,Maester’s Apothecary Co.,"Oldtown, The Reach",Archmaester,Ryam,Apothecary & Household Essentials,True,True
