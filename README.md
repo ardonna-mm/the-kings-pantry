@@ -7,30 +7,66 @@
 ![Status: Active](https://img.shields.io/badge/Status-Active-success)
 
 
-A story-driven SQL learning experience set in a fantasy world built on real business logic.  
-You’ll query trade routes, manage royal ledgers, and uncover the economics of the realm — one `JOIN` at a time.
+A story-driven SQL learning experience set in a fantasy world built on real business logic. You’ll query trade routes, manage royal ledgers, and uncover the economics of the realm — one `JOIN` at a time.
 
 ---
 
 ## 🌿 About the Project
 
-**The King’s Pantry** began as a thought experiment:  
-What if you could learn SQL not through dry tables, but through *world-building*?
+Welcome to **The King’s Pantry** — where data meets world-building.  
+If *AdventureWorks* and *Game of Thrones* had a data baby, this would be it.
+
+You’ll learn SQL through story — querying trade routes, managing royal ledgers, and uncovering the economics of the realm.
 
 Every table represents a piece of a royal supply chain — from noble vendors and private-label brands to orders fulfilled across the Seven Realms.  
-Behind the narrative lies a fully modeled **ERP-style dataset** reflecting real-world business logic: brands, vendors, customers, sales orders, and detailed margins.
+Behind the narrative lies a fully modeled **ERP-style dataset**, reflecting real-world business logic: brands, vendors, customers, sales orders, and detailed margins.
 
 This project blends **fantasy storytelling with technical mastery**, showing that analytics can be equal parts creative and rigorous.  
 It’s not just about learning SQL — it’s about learning to *think* like a data analyst in a living world.
 
 ---
 
+🧩 **Rooted in Real Business Logic**
+This project was inspired by ERP systems I’ve worked with in the real world as a data analyst.  
+When I say this is rooted in business logic, I mean it literally — these tables and queries mirror the data models and analyses I’ve built for **distribution companies and retailers**.
+
+From ad-hoc reporting to deep-dive sales analysis, I drew inspiration from what I know best — and then wrapped it in a fantasy world to make learning fun.
+
+While most SQL tutorials keep a corporate tone, *The King’s Pantry* takes a different approach:  
+on the surface it’s whimsical, but underneath it’s structured like a **real ERP system**.
+
+I didn’t just generate random sales totals, product names, or customer IDs.  
+Every decision in this dataset — from incorporating **freight into landed cost**, to defining **item_taxonomy_1** and **item_taxonomy_2**, to formatting sales orders like `SO-1001` — was deliberate.  
+
+Most practice datasets simplify realism away.  
+Here, even the smallest details — like how an ID number looks — are built to reflect real-world systems.  
+
+Fantasy might sound playful, until you explore the dataset yourself and see the depth in everything.
+
+It’s designed to work seamlessly across **SQL, Python, and Power BI**, making it practical for both technical and creative learners alike.
+
+---
+
+📂 **Reference Files: Behind the Business Logic**
+
+If you’d like to peek under the hood, these files show how the dataset’s business rules were designed and tested:
+
+| File | Description |
+|------|--------------|
+| [`docs_category_weighting.xlsx`](./references/docs_category_weighting.xlsx) | Defines category share by product type and applied multipliers for sales distribution. |
+| [`docs_customer_mix.xlsx`](./docs_customer_mix.xlsx) | Models retail vs. wholesale ratio, average spend, and region weight. |
+| [`docs_discounts_logic.xlsx`](./references/docs_discounts_logic.xlsx) | SQL snippets used to simulate realistic promotions and tax applications. |
+| [`docs_tax_logic.xlsx`](./references/docs_tax_logic.xlsx) | SQL snippets used to simulate realistic promotions and tax applications. |
+| [`sales_channel_lookup.xlsx`](./references/sales_channel_lookup.xlsx) | Lookup table mapping sales channels (RP, MS, GS, CC) to business rules. |
+
+Each logic file contributes to making *The King’s Pantry* more than just a dataset —  
+it’s a **living ecosystem of analytics**, built to teach you how data behaves in the real world.
+
+> *Because even data deserves a little magic.*
+
+---
+
 ## ⚡ Quick Start
-
-Welcome to **The King’s Pantry** — where data meets world-building.  
-If AdventureWorks and *Game of Thrones* had a data baby, this would be it.
-
-You’ll learn SQL through story — querying trade routes, managing royal ledgers, and uncovering the economics of the realm.
 
 **Choose your path:**
 
@@ -50,36 +86,9 @@ Open the Colab, load the data, and start your first query — *“Apprentice of 
 
 ---
 
-## 🪄 Workbook Files
-
-Choose your adventure based on how you like to learn.  
-
-| File | Description |
-|------|-------------|
-| [`Kings_Pantry_SQL_Workbook.ipynb`](https://colab.research.google.com/github/aleighcar/the-kings-pantry/blob/main/Kings_Pantry_SQL_Workbook.ipynb) | **Start here if you’re new to SQL or prefer a guided, story-driven experience.** Open this in Google Colab to follow along with narrative prompts, run queries, and learn interactively — no setup needed. |
-| [`Kings_Pantry_SQL_Workbook.sql`](Kings_Pantry_SQL_Workbook.sql) | **For intermediate learners or SSMS/MySQL users.** A clean, fully commented `.sql` file with all 30 exercises — ready to run in your local SQL environment. |
-| [Dataset on Kaggle](https://www.kaggle.com/datasets/ardonnalcardines/the-kings-pantry-launch-1) | **Optional:** The same dataset in CSV format — perfect for Power BI, Tableau, or Python analysis. |
-
----
-
-## ⚙️ How to Begin
-
-1. **If you’re using Colab (recommended for beginners):**  
-   - Click “Open in Colab” below or open the `.ipynb` link above.  
-   - Run each cell and follow the prompts as you move from *Apprentice* to *Archmaester*.  
-
-2. **If you’re using MySQL or SQL Server:**  
-   - Download and run `the_kings_pantry.sql` once to create your database and load all tables.  
-   - Then open `Kings_Pantry_SQL_Workbook.sql` in your SQL editor to follow the exercises.  
-
-3. **Optional:** Use the Kaggle dataset if you want to explore the same data visually in Power BI or with Python.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleighcar/the-kings-pantry/blob/main/Kings_Pantry_SQL_Workbook.ipynb)
-
 ## 🏗️ Dataset Setup
 
-Before you begin your SQL journey, you’ll need **The King’s Pantry** database.  
-Every table represents a piece of the royal supply chain — from noble vendors to private-label brands and loyal customers.
+Now that you've chosen your path, let's embark on this journey. Before you begin, you’ll need **The King’s Pantry** database. Every table represents a piece of the royal supply chain — from noble vendors to private-label brands and loyal customers.
 
 You can set up the data in two ways:
 
@@ -141,8 +150,6 @@ Once loaded, you should see these six tables:
   4. You’re ready to query.
   Open your SQL editor (SSMS, MySQL Workbench, or your favorite tool), and start your journey from Apprentice to Archmaester — one query at a time.
 
-
-
 ---
 
 ## 🧱 SQL Progression Overview
@@ -154,14 +161,6 @@ Once loaded, you should see these six tables:
 | 🔮 Advanced | *Archmaesters of Data* | `CTE`, `WINDOW FUNCTIONS`, parent-child hierarchies |
 
 Each exercise is written in clean, ANSI-neutral SQL so you can practice in MySQL, PostgreSQL, or SQL Server.
-
----
-
-## 💡 Notes
-
-- Replace `FETCH FIRST n ROWS ONLY` → `LIMIT n` if using MySQL.
-- Ideal for analysts learning to write business-focused SQL in a creative setting.
-- Pairs seamlessly with the **Power BI Tutorial** available on Kaggle.
 
 ---
 
