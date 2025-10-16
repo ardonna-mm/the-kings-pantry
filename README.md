@@ -54,8 +54,8 @@ If you’d like to peek under the hood, these files show how the dataset’s bus
 | File | Description |
 |------|--------------|
 | [`docs_category_weighting.csv`](./references/docs_category_weighting.csv) | Defines category share by product type and applied multipliers for sales distribution. |
-| [`docs_customer_mix.csv`](./docs_customer_mix.csv) | Models retail vs. wholesale ratio, average spend, and region weight. |
-| [`docs_discounts_logic.csv`](./references/docs_discounts_logic.csv) | SQL snippets used to simulate realistic promotions and tax applications. |
+| [`docs_customer_mix.csv`](./references/docs_customer_mix.csv) | Models retail vs. wholesale ratio, average spend, and region weight. |
+| [`docs_discount_logic.csv`](./references/docs_discount_logic.csv) | SQL snippets used to simulate realistic promotions and tax applications. |
 | [`docs_tax_logic.csv`](./references/docs_tax_logic.csv) | SQL snippets used to simulate realistic promotions and tax applications. |
 | [`sales_channel_lookup.csv`](./references/sales_channel_lookup.csv) | Lookup table mapping sales channels (RP, MS, GS, CC) to business rules. |
 
