@@ -23,7 +23,7 @@ It’s not just about learning SQL — it’s about learning to *think* like a d
 Before running the exercises, you’ll need the King’s Pantry database.  
 Run this SQL file in MySQL or SSMS to create all tables and load the data:
 
-[`the_kings_pantry.sql`](<ADD_LINK_HERE>)
+[`the_kings_pantry.sql`](data/the_kings_pantry.sql)
 
 This script builds:
 - `brand`
@@ -39,9 +39,10 @@ This script builds:
 
 | File | Description |
 |------|--------------|
-| [`Kings_Pantry_SQL_Workbook.sql`](<ADD_LINK_HERE>) | Full SQL exercises (30 total) — beginner to advanced |
-| [`Kings_Pantry_SQL_Workbook.ipynb`](<ADD_LINK_HERE>) | Story-driven Colab / Jupyter Notebook version |
-| [Dataset on Kaggle](<ADD_KAGGLE_LINK_HERE>) | CSV version of the same data for Power BI or Python analysis |
+| [`Kings_Pantry_SQL_Workbook.sql`](Kings_Pantry_SQL_Workbook.sql) | Full SQL exercises (30 total) — beginner to advanced |
+| [`Kings_Pantry_SQL_Workbook.ipynb`](https://colab.research.google.com/github/aleighcar/the-kings-pantry/blob/main/Kings_Pantry_SQL_Workbook.ipynb) | Story-driven Colab / Jupyter Notebook version |
+| [Dataset on Kaggle](https://www.kaggle.com/datasets/ardonnalcardines/the-kings-pantry-launch-1) | CSV version of the same data for Power BI or Python analysis |
+
 
 ---
 
