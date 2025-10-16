@@ -45,13 +45,13 @@ This script builds:
 
 ---
 
-## ⚙️ How to Use (Jess Ramos Style)
+## ⚙️ How to Use 
 
 1. Run **`the_kings_pantry.sql`** once to build your database.
 2. Open **`Kings_Pantry_SQL_Workbook.sql`** or the Colab notebook below.
 3. Read the story prompts, try each query, and follow your journey from *Apprentice* to *Archmaester*.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](<YOUR_COLAB_LINK_HERE>)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](<(https://colab.research.google.com/github/aleighcar/the-kings-pantry/blob/main/Kings_Pantry_SQL_Workbook.ipynb)>)
 
 ---
 
