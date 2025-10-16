@@ -53,11 +53,11 @@ If you’d like to peek under the hood, these files show how the dataset’s bus
 
 | File | Description |
 |------|--------------|
-| [`docs_category_weighting.xlsx`](./references/docs_category_weighting.xlsx) | Defines category share by product type and applied multipliers for sales distribution. |
-| [`docs_customer_mix.xlsx`](./docs_customer_mix.xlsx) | Models retail vs. wholesale ratio, average spend, and region weight. |
-| [`docs_discounts_logic.xlsx`](./references/docs_discounts_logic.xlsx) | SQL snippets used to simulate realistic promotions and tax applications. |
-| [`docs_tax_logic.xlsx`](./references/docs_tax_logic.xlsx) | SQL snippets used to simulate realistic promotions and tax applications. |
-| [`sales_channel_lookup.xlsx`](./references/sales_channel_lookup.xlsx) | Lookup table mapping sales channels (RP, MS, GS, CC) to business rules. |
+| [`docs_category_weighting.csv`](./references/docs_category_weighting.xlsx) | Defines category share by product type and applied multipliers for sales distribution. |
+| [`docs_customer_mix.csv`](./docs_customer_mix.xlsx) | Models retail vs. wholesale ratio, average spend, and region weight. |
+| [`docs_discounts_logic.csv`](./references/docs_discounts_logic.xlsx) | SQL snippets used to simulate realistic promotions and tax applications. |
+| [`docs_tax_logic.csv`](./references/docs_tax_logic.xlsx) | SQL snippets used to simulate realistic promotions and tax applications. |
+| [`sales_channel_lookup.csv`](./references/sales_channel_lookup.xlsx) | Lookup table mapping sales channels (RP, MS, GS, CC) to business rules. |
 
 Each logic file contributes to making *The King’s Pantry* more than just a dataset —  
 it’s a **living ecosystem of analytics**, built to teach you how data behaves in the real world.
