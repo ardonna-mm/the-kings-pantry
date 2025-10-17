@@ -4,7 +4,7 @@
 ![Made with Colab](https://img.shields.io/badge/Made%20with-Colab-orange?logo=googlecolab)
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
-![Status: Active](https://img.shields.io/badge/Status-Active-success)
+![Status: Active](https://img.shields.io/badge/Status-Active-success) 
 
 
 A story-driven SQL learning experience set in a fantasy world built on real business logic. You’ll query trade routes, manage royal ledgers, and uncover the economics of the realm — one `JOIN` at a time.
