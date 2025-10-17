@@ -1,4 +1,4 @@
-# 🪄 The King’s Pantry — SQL Workbook (Mercury Musings Edition)
+# 🪄 The King’s Pantry — SQL Courses (Mercury Musings Edition)
 
 
 ![Made with Colab](https://img.shields.io/badge/Made%20with-Colab-orange?logo=googlecolab)
@@ -13,16 +13,13 @@ A story-driven SQL learning experience set in a fantasy world built on real busi
 
 ## 🌿 About the Project
 
-Welcome to **The King’s Pantry** — where data meets world-building.  
-If *AdventureWorks* and *Game of Thrones* had a data baby, this would be it.
+Welcome to **The King’s Pantry** — where data meets world-building. If *AdventureWorks* and *Game of Thrones* had a data baby, this would be it.
 
 You’ll learn SQL through story — querying trade routes, managing royal ledgers, and uncovering the economics of the realm.
 
-Every table represents a piece of a royal supply chain — from noble vendors and private-label brands to orders fulfilled across the Seven Realms.  
-Behind the narrative lies a fully modeled **ERP-style dataset**, reflecting real-world business logic: brands, vendors, customers, sales orders, and detailed margins.
+Every table represents a piece of a royal supply chain — from noble vendors and private-label brands to orders fulfilled across the Seven Realms. Behind the narrative lies a fully modeled **ERP-style dataset**, reflecting real-world business logic: brands, vendors, customers, sales orders, and detailed margins.
 
-This project blends **fantasy storytelling with technical mastery**, showing that analytics can be equal parts creative and rigorous.  
-It’s not just about learning SQL — it’s about learning to *think* like a data analyst in a living world.
+This project blends **fantasy storytelling with technical mastery**, showing that analytics can be equal parts creative and rigorous. It’s not just about learning SQL — it’s about learning to *think* like a data analyst in a living world.
 
 ---
 
